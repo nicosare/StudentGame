@@ -54,9 +54,12 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="Assets\Dialogues\DialogueManager.cs" />
+    <Compile Include="Assets\NPC\NPC.cs" />
     <Compile Include="Assets\Dialogues\Dialogue.cs" />
     <Compile Include="Assets\Dialogues\DialogueTrigger.cs" />
-    <Compile Include="Assets\NPC\NPC.cs" />
+    <Compile Include="Assets\FightingLvl\HealthBar\HealthBar.cs" />
+    <Compile Include="Assets\FightingLvl\Player\PlayerFight.cs" />
+    <Compile Include="Assets\FightingLvl\Enemy\EnemyFight.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
