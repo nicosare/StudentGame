@@ -9,77 +9,82 @@ public class PlayerFight : MonoBehaviour
     public int currentHealth;
     public HealthBar healthBar;
     public EnemyFight enemy;
-    public bool isFrontBlock;
-    public bool isRightBlock;
-    public bool isLeftBlock;
-    public bool isAttack;
-    public int damage = 20;
-    private bool isMove;
+    public int damage;
+    private Dictionary<string, int> absorption;
 
 
     void Start()
     {
         currentHealth = maxHealth;
         healthBar.SetMaxHealth(maxHealth);
+
+        absorption = new Dictionary<string, int>
+        {
+            ["Left"] = 0,
+            ["Front"] = 0,
+            ["Right"] = 0
+        };
     }
 
     void Update()
     {
-        isAttack = false;
-        isFrontBlock = false;
-        isLeftBlock = false;
-        isRightBlock = false;
         this.GetComponent<SpriteRenderer>().color = new Color(255f, 255f, 255f);
 
         if (Input.GetKey(KeyCode.W))
             FrontBlock();
+        else absorption["Front"] = 0;
+
         if (Input.GetKey(KeyCode.A))
             LeftBlock();
+        else absorption["Left"] = 0;
+
         if (Input.GetKey(KeyCode.D))
             RightBlock();
+        else absorption["Right"] = 0;
+
         if (Input.GetKeyDown(KeyCode.Space) && enemy.GetHealth() > 0)
             Attack();
     }
 
     public void FrontBlock()
     {
-        if (!(isLeftBlock || isRightBlock))
-        {
-            this.GetComponent<SpriteRenderer>().color = new Color(255f, 0f, 0f);
-            isFrontBlock = true;
-        }
+        this.GetComponent<SpriteRenderer>().color = new Color(255f, 0f, 0f);
+        absorption["Front"] = 100;
+        absorption["Left"] = 0;
+        absorption["Right"] = 0;
     }
 
     public void LeftBlock()
     {
-        if (!(isFrontBlock || isRightBlock))
-        {
-            this.GetComponent<SpriteRenderer>().color = new Color(0f, 0f, 255f);
-            isLeftBlock = true;
-        }
+        this.GetComponent<SpriteRenderer>().color = new Color(0f, 0f, 255f);
+        absorption["Left"] = 100;
+        absorption["Front"] = 0;
+        absorption["Right"] = 0;
     }
 
     public void RightBlock()
     {
-        if (!(isLeftBlock || isFrontBlock))
-        {
-            this.GetComponent<SpriteRenderer>().color = new Color(0f, 255f, 0f);
-            isRightBlock = true;
-        }
+        this.GetComponent<SpriteRenderer>().color = new Color(0f, 255f, 0f);
+        absorption["Right"] = 100;
+        absorption["Front"] = 0;
+        absorption["Left"] = 0;
     }
 
     public void Attack()
     {
-        if (!(isLeftBlock || isRightBlock || isFrontBlock || enemy.isBlock))
-        {
-            isAttack = true;
-            this.GetComponent<SpriteRenderer>().color = new Color(0f, 0f, 0f);
-        }
+        this.GetComponent<SpriteRenderer>().color = new Color(0f, 0f, 0f);
+        if (enemy.isFreeForAttack == true)
+            enemy.GetDamage(damage);
     }
 
-    public void GetDamage(int damage)
+    public void GetDamage(float damage, string attack)
     {
-        currentHealth -= damage;
+        if (enemy.attacks[attack])
+        {
+            damage = damage - (damage / 100) * absorption[attack];
+        }
+
+        currentHealth -= (int)damage;
         healthBar.SetHealth(currentHealth);
     }
 

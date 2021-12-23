@@ -8,87 +8,71 @@ public class EnemyFight : MonoBehaviour
     public int currentHealth;
     public HealthBar healthBar;
     public PlayerFight player;
-    public bool isBlock;
     public Animator animator;
     private int lvl = 1;
-    private int damage = 5;
+    private float damage = 5;
+    public bool isFreeForAttack;
+    public Dictionary<string, bool> attacks;
 
     void Start()
     {
         currentHealth = maxHealth;
         healthBar.SetMaxHealth(maxHealth);
         StartCoroutine(Combinations());
+        attacks = new Dictionary<string, bool>
+        {
+            ["Left"] = false,
+            ["Front"] = false,
+            ["Right"] = false,
+        };
     }
-
 
     void Update()
     {
         if (currentHealth <= 0 && lvl < 3)
             LvlUp();
-        if (player.isAttack)
-            Block();
     }
 
-    //Action0
+    private void Attack(string attack)
+    {
+        attacks[attack] = true;
+        player.GetDamage(damage, attack);
+    }
+
+    private void EndAttack(string attack)
+    {
+        attacks[attack] = false;
+    }
+
     private void FrontAttack()
     {
-        if (!player.isFrontBlock)
-        {
-            player.GetDamage(damage);
-        }
-        Debug.Log("Front");
+        animator.Play("Front");
     }
 
-    //Action1
     public void LeftAttack()
     {
-        if (!player.isLeftBlock)
-        {
-            player.GetDamage(damage);
-        }
-        Debug.Log("Left");
+        animator.Play("Left");
     }
 
-    //Action2
     private void RightAttack()
     {
-        if (!player.isRightBlock)
-        {
-            player.GetDamage(damage);
-        }
-        Debug.Log("Right");
+        animator.Play("Right");
     }
 
-    //Action3
     public void Wait()
     {
-        Debug.Log("Wait");
+        isFreeForAttack = true;
     }
 
     private void Idle()
     {
-        isBlock = false;
-    }
-
-    //Block
-    public void Block()
-    {
-        if (Random.Range(0, 2) == 0)
-        {
-            GetDamage(player.damage);
-        }
-        else
-        {
-            animator.Play("Block");
-            Debug.Log("Block");
-        }
+        isFreeForAttack = false;
     }
 
     public void GetDamage(int damage)
     {
         currentHealth -= damage;
         healthBar.SetHealth(currentHealth);
-        Debug.Log("Hit");
     }
     public int GetHealth()
     {
@@ -110,13 +94,14 @@ public class EnemyFight : MonoBehaviour
         yield return new WaitForSeconds(.1f);
         while (player.GetHealth() > 0)
         {
-            Action(Random.Range(0,4));
+            LeftAttack();
+            yield return new WaitForSeconds(1);
+            FrontAttack();
+            yield return new WaitForSeconds(1);
+            RightAttack();
+            yield return new WaitForSeconds(1);
+            Wait();
             yield return new WaitForSeconds(1);
         }
-    }
-
-    private void Action(int num)
-    {
-        animator.Play("Action" + num);
     }
 }

@@ -158,8 +158,8 @@ MonoBehaviour:
   currentHealth: 0
   healthBar: {fileID: 924587751}
   player: {fileID: 2136820071}
-  isBlock: 0
   animator: {fileID: 181765079}
+  isFreeForAttack: 0
 --- !u!212 &181765077
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -1116,11 +1116,7 @@ MonoBehaviour:
   currentHealth: 0
   healthBar: {fileID: 1776675686}
   enemy: {fileID: 181765076}
-  isFrontBlock: 0
-  isRightBlock: 0
-  isLeftBlock: 0
-  isAttack: 0
-  damage: 20
+  damage: 10
 --- !u!212 &2136820072
 SpriteRenderer:
   m_ObjectHideFlags: 0
