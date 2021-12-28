@@ -53,15 +53,16 @@
     <UnityVersion>2020.3.21f1</UnityVersion>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="Assets\Menus\PauseMenu\PauseMenu.cs" />
     <Compile Include="Assets\Dialogues\DialogueManager.cs" />
     <Compile Include="Assets\NPC\NPC.cs" />
     <Compile Include="Assets\Dialogues\Dialogue.cs" />
     <Compile Include="Assets\FightingLvl\HealthBar\HealthBar.cs" />
-    <Compile Include="Assets\MainMenu\MainMenu.cs" />
+    <Compile Include="Assets\Menus\MainMenu\MainMenu.cs" />
     <Compile Include="Assets\FightingLvl\Player\PlayerFight.cs" />
     <Compile Include="Assets\FightingLvl\Enemy\EnemyFight.cs" />
     <Compile Include="Assets\Dialogues\DialogueTrigger.cs" />
-    <Compile Include="Assets\PauseMenu\PauseMenu.cs" />
+    <Compile Include="Assets\Menus\LoseMenu\LoseMenu.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">

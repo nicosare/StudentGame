@@ -29,6 +29,7 @@ public class EnemyFight : MonoBehaviour
 
     void Update()
     {
+        this.GetComponent<SpriteRenderer>().color = new Color(255f, 255f, 255f);
         if (currentHealth <= 0 && lvl < 3)
             LvlUp();
     }
@@ -71,6 +72,7 @@ public class EnemyFight : MonoBehaviour
 
     public void GetDamage(int damage)
     {
+        this.GetComponent<SpriteRenderer>().color = new Color(255f, 0f, 0f);
         currentHealth -= damage;
         healthBar.SetHealth(currentHealth);
     }
@@ -92,7 +94,8 @@ public class EnemyFight : MonoBehaviour
     IEnumerator Combinations()
     {
         yield return new WaitForSeconds(.1f);
-        while (player.GetHealth() > 0)
+
+        while (player.currentHealth >= 0)
         {
             LeftAttack();
             yield return new WaitForSeconds(1);
