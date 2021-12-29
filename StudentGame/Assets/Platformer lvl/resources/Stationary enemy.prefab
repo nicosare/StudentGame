@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 823767952400516112}
   - component: {fileID: 6115442771700292530}
   - component: {fileID: 4330392898433132914}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Stationary enemy
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -93,7 +93,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f2b3409c3a43fd44b95b1e581d9d1e03, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  lives: 3
 --- !u!1 &8598692938103362680
 GameObject:
   m_ObjectHideFlags: 0
@@ -104,7 +103,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2703603545453378658}
   - component: {fileID: 9130794978299854429}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: StationaryEnemy sprite
   m_TagString: Untagged
   m_Icon: {fileID: 0}
