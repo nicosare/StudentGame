@@ -1,3 +1,4 @@
+
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -6,6 +7,7 @@ public class Hero : Entity
 {
     [SerializeField] private float speed = 3f; // скорость движения
     [SerializeField] private float jumpForce = 2f; // сила прыжка
+    [SerializeField] private GameObject loseGameMenu;
     private bool isGrounded = false;
     private HealthBar healthBar;
     private int maxHealth = 100;
@@ -80,6 +82,7 @@ public class Hero : Entity
     public override void Die()
     {
         healthBar.SetHealth(0);
-        base.Die();
+        Time.timeScale = 0f;
+        loseGameMenu.SetActive(true);
     }
 }
