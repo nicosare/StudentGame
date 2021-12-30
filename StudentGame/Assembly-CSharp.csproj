@@ -74,9 +74,12 @@
     <Compile Include="Assets\Platformer lvl\scripts\StationaryEnemy.cs" />
     <Compile Include="Assets\Platformer lvl\scripts\Hero.cs" />
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\Platformer lvl\materials\Level Design\city_tileset\city_tileset\license.txt" />
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
   </ItemGroup>

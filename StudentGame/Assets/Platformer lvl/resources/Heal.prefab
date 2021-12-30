@@ -1,7 +1,11 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 --- !u!1 &5263352829359325308
+=======
+--- !u!1 &4165574567497412220
+>>>>>>> Stashed changes
 =======
 --- !u!1 &4165574567497412220
 >>>>>>> Stashed changes
@@ -12,6 +16,7 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
   - component: {fileID: 5263352829359325298}
   - component: {fileID: 5263352829359325309}
@@ -90,6 +95,10 @@ GameObject:
   - component: {fileID: 4165574567497412221}
   - component: {fileID: 4165574567497412218}
 >>>>>>> Stashed changes
+=======
+  - component: {fileID: 4165574567497412221}
+  - component: {fileID: 4165574567497412218}
+>>>>>>> Stashed changes
   m_Layer: 0
   m_Name: Heal sprite
   m_TagString: Untagged
@@ -98,7 +107,11 @@ GameObject:
   m_StaticEditorFlags: 0
   m_IsActive: 1
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 --- !u!4 &5263352830928684009
+=======
+--- !u!4 &4165574567497412221
+>>>>>>> Stashed changes
 =======
 --- !u!4 &4165574567497412221
 >>>>>>> Stashed changes
@@ -108,7 +121,11 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   m_GameObject: {fileID: 5263352830928684008}
+=======
+  m_GameObject: {fileID: 4165574567497412220}
+>>>>>>> Stashed changes
 =======
   m_GameObject: {fileID: 4165574567497412220}
 >>>>>>> Stashed changes
@@ -117,15 +134,21 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   m_Father: {fileID: 5263352829359325298}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &5263352830928684014
 =======
+=======
+>>>>>>> Stashed changes
   m_Father: {fileID: 4165574567875194342}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &4165574567497412218
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -133,7 +156,11 @@ SpriteRenderer:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   m_GameObject: {fileID: 5263352830928684008}
+=======
+  m_GameObject: {fileID: 4165574567497412220}
+>>>>>>> Stashed changes
 =======
   m_GameObject: {fileID: 4165574567497412220}
 >>>>>>> Stashed changes
@@ -182,7 +209,10 @@ SpriteRenderer:
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 =======
+=======
+>>>>>>> Stashed changes
 --- !u!1 &4165574567875194344
 GameObject:
   m_ObjectHideFlags: 0
@@ -254,4 +284,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7217a0af6937962468de8a5b7e7a34eb, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
