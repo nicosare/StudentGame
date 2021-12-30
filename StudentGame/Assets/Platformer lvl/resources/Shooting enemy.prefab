@@ -10,7 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 7624052217981387854}
   - component: {fileID: 7624052217981387855}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Shooting enemy sprite
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -71,9 +71,9 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: e06c35c82d47e8742b1ea6cd0f58e785, type: 3}
+  m_Sprite: {fileID: 21300000, guid: d10cb0dc77b8d504baa3ace966df9a7a, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_FlipX: 1
+  m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
   m_Size: {x: 1, y: 1}
@@ -91,7 +91,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 7624052218534661306}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Shoot possition
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -106,7 +106,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 7624052218534661305}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0.329, y: -0.276, z: 0}
+  m_LocalPosition: {x: 0.23, y: -0.25, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 7624052218654935544}
@@ -124,7 +124,7 @@ GameObject:
   - component: {fileID: 7624052218654935495}
   - component: {fileID: 7624052218654935494}
   - component: {fileID: 7624052218654935545}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Shooting enemy
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -160,7 +160,7 @@ BoxCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0.6498189, y: -0.17474234}
+  m_Offset: {x: 0.29829317, y: -0.12530905}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0, y: 0}
@@ -171,7 +171,7 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 0.6926074, y: 1.7013605}
+  m_Size: {x: 1.1979257, y: 1.6024939}
   m_EdgeRadius: 0
 --- !u!50 &7624052218654935494
 Rigidbody2D:
@@ -207,4 +207,3 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   bullet: {fileID: 4992734622748478307, guid: 0ac44cc38508f3d4d90710f14a6fcc1e, type: 3}
-  lives: 3
