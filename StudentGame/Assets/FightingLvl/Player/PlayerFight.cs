@@ -46,7 +46,10 @@ public class PlayerFight : MonoBehaviour
             else if (Input.GetKey(KeyCode.D))
                 RightBlock();
             if (Input.GetKeyDown(KeyCode.Space) && enemy.GetHealth() > 0)
+            {
                 animator.Play("Attack");
+
+            }
         }
     }
 
