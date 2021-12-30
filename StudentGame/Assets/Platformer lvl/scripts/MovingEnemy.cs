@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class MovingEnemy : Entity
 {
-    private float speed = 3.5f;
+    private float speed = 2.5f;
     private Vector3 dir;
     private SpriteRenderer sprite;
 
@@ -13,6 +13,7 @@ public class MovingEnemy : Entity
     {
         dir = transform.right;
         sprite = GetComponentInChildren<SpriteRenderer>();
+        lives = 1;
     }
 
     private void Update()
@@ -34,6 +35,7 @@ public class MovingEnemy : Entity
         if (collision.gameObject == Hero.Instance.gameObject)
         {
             Hero.Instance.GetDamage();
+            GetDamage();
         }
     }
 }

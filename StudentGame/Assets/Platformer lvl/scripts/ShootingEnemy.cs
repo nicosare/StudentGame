@@ -6,7 +6,6 @@ public class ShootingEnemy : Entity
 {
     private Transform shootPosition;
     [SerializeField] private GameObject bullet;
-    [SerializeField] private int lives = 3;
     private bool canShoot = true;
     private int timeReload = 2;
 
@@ -15,17 +14,14 @@ public class ShootingEnemy : Entity
         if (collision.gameObject == Hero.Instance.gameObject)
         {
             Hero.Instance.GetDamage();
-            lives--;
-            Debug.Log("У полицейского" + lives);
+            GetDamage();
         }
-
-        if (lives < 1)
-            Die();
     }
 
     private void Awake()
     {
         shootPosition = GameObject.Find("Shoot possition").transform;
+        lives = 1;
     }
     
     private IEnumerator Shoot()
