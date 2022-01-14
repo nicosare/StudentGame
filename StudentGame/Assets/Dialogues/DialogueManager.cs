@@ -18,6 +18,8 @@ public class DialogueManager : MonoBehaviour
 
     public void StartDialogue(Dialogue dialogue)
     {
+        Hero.Instance.IsDialogue = true;
+
         animator.SetBool("isOne", true);
 
         nameText.text = dialogue.name;
@@ -33,6 +35,7 @@ public class DialogueManager : MonoBehaviour
 
     public void DisplayNextSentences()
     {
+
         if (canContinue)
         {
             if (sentences.Count == 0)
@@ -60,7 +63,9 @@ public class DialogueManager : MonoBehaviour
 
     public void EndDialogue()
     {
-
+        Hero.Instance.IsDialogue = false;
         animator.SetBool("isOne", false);
+
+
     }
 }

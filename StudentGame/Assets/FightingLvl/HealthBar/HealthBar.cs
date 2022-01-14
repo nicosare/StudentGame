@@ -26,6 +26,12 @@ public class HealthBar : MonoBehaviour
         if (SceneManager.GetActiveScene().name == "Platformer lvl")
             switch (health)
             {
+                //case 100:
+                //    {
+                //        image.color = new Color(0 / 255.0f, 200 / 255.0f, 0 / 255.0f);
+                //    }
+                //    break;
+
                 case 80:
                     {
                         image.color = new Color(125 / 255.0f, 167 / 255.0f, 0 / 255.0f);

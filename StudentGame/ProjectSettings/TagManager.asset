@@ -6,6 +6,10 @@ TagManager:
   tags:
   - DialogueWindow
   - LoseMenu
+  - Checkpoint
+  - Hero
+  - Falling platform
+  - Moving thorn
   layers:
   - Default
   - TransparentFX

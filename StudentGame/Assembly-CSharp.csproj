@@ -55,33 +55,34 @@
   <ItemGroup>
     <Compile Include="Assets\Platformer lvl\scripts\MovingEnemy.cs" />
     <Compile Include="Assets\Menus\LoseMenu\LoseMenu.cs" />
+    <Compile Include="Assets\Platformer lvl\scripts\MovingThorn.cs" />
     <Compile Include="Assets\Platformer lvl\scripts\Bullet.cs" />
     <Compile Include="Assets\Platformer lvl\scripts\Entity.cs" />
+    <Compile Include="Assets\Platformer lvl\scripts\NpcController.cs" />
     <Compile Include="Assets\Menus\PauseMenu\PauseMenu.cs" />
     <Compile Include="Assets\Platformer lvl\scripts\DeadLine.cs" />
     <Compile Include="Assets\Platformer lvl\scripts\ShootingEnemy.cs" />
+    <Compile Include="Assets\Platformer lvl\scripts\Checkpoint.cs" />
+    <Compile Include="Assets\Platformer lvl\scripts\FallingPlatform.cs" />
     <Compile Include="Assets\Dialogues\DialogueManager.cs" />
     <Compile Include="Assets\Platformer lvl\scripts\Obstacle.cs" />
     <Compile Include="Assets\NPC\NPC.cs" />
     <Compile Include="Assets\Platformer lvl\scripts\CameraController.cs" />
     <Compile Include="Assets\Dialogues\Dialogue.cs" />
+    <Compile Include="Assets\Platformer lvl\scripts\PortalController.cs" />
     <Compile Include="Assets\FightingLvl\HealthBar\HealthBar.cs" />
     <Compile Include="Assets\Menus\MainMenu\MainMenu.cs" />
+    <Compile Include="Assets\Platformer lvl\scripts\LizardController.cs" />
     <Compile Include="Assets\FightingLvl\Player\PlayerFight.cs" />
     <Compile Include="Assets\Platformer lvl\scripts\Heal.cs" />
     <Compile Include="Assets\FightingLvl\Enemy\EnemyFight.cs" />
     <Compile Include="Assets\Dialogues\DialogueTrigger.cs" />
     <Compile Include="Assets\Platformer lvl\scripts\StationaryEnemy.cs" />
     <Compile Include="Assets\Platformer lvl\scripts\Hero.cs" />
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
+    <Compile Include="Assets\Platformer lvl\scripts\TriggerMovingThorn.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\Platformer lvl\materials\Level Design\city_tileset\city_tileset\license.txt" />
-=======
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
