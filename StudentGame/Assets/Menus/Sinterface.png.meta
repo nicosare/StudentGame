@@ -1,0 +1,720 @@
+fileFormatVersion: 2
+guid: 3af17489c509fa1489b92f2acdd320b5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8218143998440580304
+    second: Sinterface_0
+  - first:
+      213: 400623593509332368
+    second: Sinterface_1
+  - first:
+      213: 4376918348529981896
+    second: Sinterface_2
+  - first:
+      213: 8247631351325514504
+    second: Sinterface_3
+  - first:
+      213: 1063346163164658777
+    second: Sinterface_4
+  - first:
+      213: -2405963279566903891
+    second: Sinterface_5
+  - first:
+      213: 2689889810067040605
+    second: Sinterface_6
+  - first:
+      213: -5662112363646181897
+    second: Sinterface_7
+  - first:
+      213: 8508139131293197994
+    second: Sinterface_8
+  - first:
+      213: -5332411203440665789
+    second: Sinterface_9
+  - first:
+      213: -614478662313156615
+    second: Sinterface_10
+  - first:
+      213: 4925399402754383362
+    second: Sinterface_11
+  - first:
+      213: -2622211786853338306
+    second: Sinterface_12
+  - first:
+      213: 4756239211062747025
+    second: Sinterface_22
+  - first:
+      213: 7488766336939247143
+    second: Sinterface_34
+  - first:
+      213: -1884544298128221541
+    second: Sinterface_40
+  - first:
+      213: -7949432160826966719
+    second: Sinterface_59
+  - first:
+      213: -4853932816358471476
+    second: Sinterface_60
+  - first:
+      213: 6478037552642713490
+    second: Sinterface_61
+  - first:
+      213: -6194363154772745672
+    second: Sinterface_62
+  - first:
+      213: 4792558671651870048
+    second: Sinterface_35
+  - first:
+      213: -6657850506715837335
+    second: Sinterface_36
+  - first:
+      213: 4496452432966549930
+    second: Sinterface_29
+  - first:
+      213: 6058407187667093585
+    second: Sinterface_30
+  - first:
+      213: 7008186831548413739
+    second: Sinterface_31
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sinterface_0
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 1985
+        width: 1250
+        height: 1097
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d42f0ccc66bc0270800000000000000
+      internalID: 8218143998440580304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sinterface_1
+      rect:
+        serializedVersion: 2
+        x: 1608
+        y: 1985
+        width: 1249
+        height: 1097
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 095a3c3290d4f8500800000000000000
+      internalID: 400623593509332368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sinterface_2
+      rect:
+        serializedVersion: 2
+        x: 2967
+        y: 1999
+        width: 1249
+        height: 1096
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c9d40f4c00fdbc30800000000000000
+      internalID: 4376918348529981896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sinterface_3
+      rect:
+        serializedVersion: 2
+        x: 4318
+        y: 1999
+        width: 1249
+        height: 1096
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80bd1262409757270800000000000000
+      internalID: 8247631351325514504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sinterface_4
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 1559
+        width: 276
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95c34b893b3c1ce00800000000000000
+      internalID: 1063346163164658777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sinterface_5
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 1559
+        width: 268
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da5e7c2052d4c9ed0800000000000000
+      internalID: -2405963279566903891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sinterface_6
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 1559
+        width: 271
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d592df5d788645520800000000000000
+      internalID: 2689889810067040605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sinterface_7
+      rect:
+        serializedVersion: 2
+        x: 4309
+        y: 831
+        width: 1250
+        height: 1097
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fd958eedc22c61b0800000000000000
+      internalID: -5662112363646181897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sinterface_8
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1334
+        width: 437
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa6e45c367bf21670800000000000000
+      internalID: 8508139131293197994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sinterface_9
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 1405
+        width: 109
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34b1b9643487ff5b0800000000000000
+      internalID: -5332411203440665789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sinterface_10
+      rect:
+        serializedVersion: 2
+        x: 1203
+        y: 1405
+        width: 115
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ff54ca89eee877f0800000000000000
+      internalID: -614478662313156615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sinterface_11
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 1105
+        width: 564
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20e981239a88a5440800000000000000
+      internalID: 4925399402754383362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sinterface_12
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 1091
+        width: 214
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e33b3ced5480c9bd0800000000000000
+      internalID: -2622211786853338306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sinterface_22
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 678
+        width: 676
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19fdd22ec5e810240800000000000000
+      internalID: 4756239211062747025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sinterface_34
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 249
+        width: 914
+        height: 363
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 726ca276e417de760800000000000000
+      internalID: 7488766336939247143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sinterface_40
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 459
+        width: 465
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9a549212f0c8d5e0800000000000000
+      internalID: -1884544298128221541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sinterface_59
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 68
+        width: 137
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14db7df4191fda190800000000000000
+      internalID: -7949432160826966719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sinterface_60
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 68
+        width: 509
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc8875d12dd53acb0800000000000000
+      internalID: -4853932816358471476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sinterface_61
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 68
+        width: 509
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 297e8eef4dc96e950800000000000000
+      internalID: 6478037552642713490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sinterface_62
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 593
+        width: 388
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 832a006a783390aa0800000000000000
+      internalID: -6194363154772745672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sinterface_35
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 306
+        width: 648
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 065170548b6928240800000000000000
+      internalID: 4792558671651870048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sinterface_36
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 774
+        width: 394
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96c4c8b2d309a93a0800000000000000
+      internalID: -6657850506715837335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sinterface_29
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 1217
+        width: 298
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa189602aab966e30800000000000000
+      internalID: 4496452432966549930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sinterface_30
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 1083
+        width: 249
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15802950d39c31450800000000000000
+      internalID: 6058407187667093585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sinterface_31
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 943
+        width: 312
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b277306dac4124160800000000000000
+      internalID: 7008186831548413739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

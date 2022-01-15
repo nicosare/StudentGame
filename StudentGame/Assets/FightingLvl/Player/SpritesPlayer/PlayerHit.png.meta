@@ -1,0 +1,936 @@
+fileFormatVersion: 2
+guid: a0c29d126d5468646a35be8dde8a987a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7651472288511657752
+    second: PlayerHit_28
+  - first:
+      213: 825895686613329522
+    second: PlayerHit_29
+  - first:
+      213: 2250154980695975141
+    second: PlayerHit_30
+  - first:
+      213: 8812972656183587055
+    second: PlayerHit_31
+  - first:
+      213: -3110992192935604071
+    second: PlayerHit_32
+  - first:
+      213: -2102203453307251016
+    second: PlayerHit_33
+  - first:
+      213: 8481659304053135391
+    second: PlayerHit_34
+  - first:
+      213: 627505270067221189
+    second: PlayerHit_35
+  - first:
+      213: 3856620679289030360
+    second: PlayerHit_44
+  - first:
+      213: 4413261647059242107
+    second: PlayerHit_45
+  - first:
+      213: -7472990928367111201
+    second: PlayerHit_46
+  - first:
+      213: -1026140127000973667
+    second: PlayerHit_47
+  - first:
+      213: 409658926963219668
+    second: PlayerHit_48
+  - first:
+      213: 5871518267781658126
+    second: PlayerHit_49
+  - first:
+      213: 903554740897484742
+    second: PlayerHit_50
+  - first:
+      213: 3591662751867322370
+    second: PlayerHit_51
+  - first:
+      213: 7609665567613096801
+    second: PlayerHit_52
+  - first:
+      213: -3474974673685630250
+    second: PlayerHit_53
+  - first:
+      213: 9217209239094244336
+    second: PlayerHit_54
+  - first:
+      213: 8299398425214793481
+    second: PlayerHit_55
+  - first:
+      213: 9004223534591987012
+    second: PlayerHit_56
+  - first:
+      213: 1755850073072813035
+    second: PlayerHit_57
+  - first:
+      213: 1822906379740314707
+    second: PlayerHit_58
+  - first:
+      213: -5222137432334034365
+    second: PlayerHit_59
+  - first:
+      213: 2335364945278592727
+    second: PlayerHit_60
+  - first:
+      213: 7821652468170826868
+    second: PlayerHit_61
+  - first:
+      213: 2861927173675997337
+    second: PlayerHit_62
+  - first:
+      213: -3864171554287513843
+    second: PlayerHit_63
+  - first:
+      213: -3015911434445972003
+    second: PlayerHit_64
+  - first:
+      213: -3718736393651046244
+    second: PlayerHit_65
+  - first:
+      213: 3509731895502817835
+    second: PlayerHit_66
+  - first:
+      213: -6765965458234365048
+    second: PlayerHit_67
+  - first:
+      213: -9076151720851613279
+    second: PlayerHit_68
+  - first:
+      213: -2621960154144606282
+    second: PlayerHit_69
+  - first:
+      213: 3288778295004968564
+    second: PlayerHit_70
+  - first:
+      213: -5132236946615273819
+    second: PlayerHit_71
+  - first:
+      213: -1546376180968378090
+    second: PlayerHit_72
+  - first:
+      213: -5517472922742048193
+    second: PlayerHit_73
+  - first:
+      213: 6581244428350800773
+    second: PlayerHit_74
+  - first:
+      213: -6670009165510051973
+    second: PlayerHit_75
+  - first:
+      213: 2067417856270721158
+    second: PlayerHit_76
+  - first:
+      213: 4421727262764696814
+    second: PlayerHit_77
+  - first:
+      213: 5565218029903595398
+    second: PlayerHit_78
+  - first:
+      213: 2082479572632837855
+    second: PlayerHit_79
+  - first:
+      213: -5534846853860037499
+    second: PlayerHit_80
+  - first:
+      213: -3046481810884574039
+    second: PlayerHit_81
+  - first:
+      213: 7150929189822136622
+    second: PlayerHit_82
+  - first:
+      213: -7913498546889864155
+    second: PlayerHit_83
+  - first:
+      213: 6503059452175058855
+    second: PlayerHit_84
+  - first:
+      213: -3824793348124171881
+    second: PlayerHit_85
+  - first:
+      213: 3984975947359440959
+    second: PlayerHit_86
+  - first:
+      213: 7825319886368432078
+    second: PlayerHit_87
+  - first:
+      213: -8678544091556317373
+    second: PlayerHit_88
+  - first:
+      213: -769648472292863067
+    second: PlayerHit_89
+  - first:
+      213: -5995156470514500574
+    second: PlayerHit_90
+  - first:
+      213: 3003797476781611980
+    second: PlayerHit_91
+  - first:
+      213: -922081384792971448
+    second: PlayerHit_92
+  - first:
+      213: -7956686042114937843
+    second: PlayerHit_93
+  - first:
+      213: -8946587035312668461
+    second: PlayerHit_94
+  - first:
+      213: 496953051649217854
+    second: PlayerHit_95
+  - first:
+      213: 2099612729330696430
+    second: PlayerHit_96
+  - first:
+      213: -5203294460640449793
+    second: PlayerHit_97
+  - first:
+      213: 7280876853223192783
+    second: PlayerHit_98
+  - first:
+      213: 7903084618110660720
+    second: PlayerHit_99
+  - first:
+      213: -1129206592188585482
+    second: PlayerHit_100
+  - first:
+      213: -3355347878981953510
+    second: PlayerHit_101
+  - first:
+      213: 3230423178265603530
+    second: PlayerHit_102
+  - first:
+      213: 7001512904385394903
+    second: PlayerHit_103
+  - first:
+      213: -7221474090307887044
+    second: PlayerHit_104
+  - first:
+      213: -2148078368684424919
+    second: PlayerHit_105
+  - first:
+      213: 6256536025267309916
+    second: PlayerHit_106
+  - first:
+      213: -440536693665776784
+    second: PlayerHit_107
+  - first:
+      213: 3511401709278808013
+    second: PlayerHit_108
+  - first:
+      213: -2374251207680188085
+    second: PlayerHit_109
+  - first:
+      213: -4183590032301306512
+    second: PlayerHit_110
+  - first:
+      213: -7945336114633800650
+    second: PlayerHit_111
+  - first:
+      213: -7222866153587634874
+    second: PlayerHit_112
+  - first:
+      213: -992327310384885789
+    second: PlayerHit_113
+  - first:
+      213: -3995911016492632397
+    second: PlayerHit_114
+  - first:
+      213: 3250323784206125807
+    second: PlayerHit_115
+  - first:
+      213: 2609549224634072231
+    second: PlayerHit_116
+  - first:
+      213: 4520067623160095411
+    second: PlayerHit_117
+  - first:
+      213: -1089273677168785344
+    second: PlayerHit_118
+  - first:
+      213: -567419487046241240
+    second: PlayerHit_119
+  - first:
+      213: 2774020385852433781
+    second: PlayerHit_120
+  - first:
+      213: 425308375625624622
+    second: PlayerHit_121
+  - first:
+      213: 306972826767646750
+    second: PlayerHit_122
+  - first:
+      213: -4514976643359825357
+    second: PlayerHit_123
+  - first:
+      213: -5864249228918023072
+    second: PlayerHit_124
+  - first:
+      213: 5224612283986158508
+    second: PlayerHit_125
+  - first:
+      213: -8372716517649836301
+    second: PlayerHit_126
+  - first:
+      213: 9145085727837353921
+    second: PlayerHit_127
+  - first:
+      213: 1295365618653920296
+    second: PlayerHit_128
+  - first:
+      213: -504795827567752870
+    second: PlayerHit_129
+  - first:
+      213: 475039349653616406
+    second: PlayerHit_130
+  - first:
+      213: 3949121455459417332
+    second: PlayerHit_131
+  - first:
+      213: 1898511549926343267
+    second: PlayerHit_132
+  - first:
+      213: 230707002017778783
+    second: PlayerHit_133
+  - first:
+      213: -1043355170636014256
+    second: PlayerHit_134
+  - first:
+      213: -2719647003549482756
+    second: PlayerHit_135
+  - first:
+      213: 7262809248084771767
+    second: PlayerHit_136
+  - first:
+      213: -6880152543342354013
+    second: PlayerHit_137
+  - first:
+      213: -7088724716014408849
+    second: PlayerHit_138
+  - first:
+      213: -2333381033752109149
+    second: PlayerHit_139
+  - first:
+      213: -4484189901289527192
+    second: PlayerHit_140
+  - first:
+      213: 3731548853869354933
+    second: PlayerHit_141
+  - first:
+      213: 1690716589446063282
+    second: PlayerHit_142
+  - first:
+      213: 8009366160020134257
+    second: PlayerHit_143
+  - first:
+      213: 8115397311029429711
+    second: PlayerHit_144
+  - first:
+      213: 4743217891965472047
+    second: PlayerHit_145
+  - first:
+      213: 673424427050533678
+    second: PlayerHit_146
+  - first:
+      213: 4465322828830708984
+    second: PlayerHit_147
+  - first:
+      213: 9156971610262560032
+    second: PlayerHit_148
+  - first:
+      213: -6940869876178333723
+    second: PlayerHit_149
+  - first:
+      213: 1589984142485026881
+    second: PlayerHit_150
+  - first:
+      213: -7341931144329478404
+    second: PlayerHit_151
+  - first:
+      213: 2633771824878963362
+    second: PlayerHit_152
+  - first:
+      213: -7391257324312276733
+    second: PlayerHit_153
+  - first:
+      213: -5605636836925510125
+    second: PlayerHit_154
+  - first:
+      213: 5941788584742855638
+    second: PlayerHit_155
+  - first:
+      213: -2956317627449071107
+    second: PlayerHit_156
+  - first:
+      213: -3677070759518503657
+    second: PlayerHit_157
+  - first:
+      213: 8041771260365622118
+    second: PlayerHit_158
+  - first:
+      213: 6831360534806668218
+    second: PlayerHit_159
+  - first:
+      213: -8854592053007693733
+    second: PlayerHit_160
+  - first:
+      213: 8450894703247579175
+    second: PlayerHit_161
+  - first:
+      213: -1338190350494878897
+    second: PlayerHit_162
+  - first:
+      213: -8738492681120834202
+    second: PlayerHit_163
+  - first:
+      213: -6252394298825186085
+    second: PlayerHit_164
+  - first:
+      213: -9204017279926565785
+    second: PlayerHit_165
+  - first:
+      213: -93744650108305997
+    second: PlayerHit_166
+  - first:
+      213: 9092440001324160362
+    second: PlayerHit_167
+  - first:
+      213: 7345039038312877936
+    second: PlayerHit_168
+  - first:
+      213: -3757410239258574388
+    second: PlayerHit_169
+  - first:
+      213: -2947135441804059832
+    second: PlayerHit_170
+  - first:
+      213: -9181037960284371594
+    second: PlayerHit_171
+  - first:
+      213: -2160953576409211898
+    second: PlayerHit_172
+  - first:
+      213: 1571210669348639903
+    second: PlayerHit_173
+  - first:
+      213: -736608103669254927
+    second: PlayerHit_174
+  - first:
+      213: -4789605452459468165
+    second: PlayerHit_175
+  - first:
+      213: 727187272705894421
+    second: PlayerHit_176
+  - first:
+      213: -2643023546003723188
+    second: PlayerHit_177
+  - first:
+      213: 331603183092489821
+    second: PlayerHit_0
+  - first:
+      213: 4667570983326663663
+    second: PlayerHit_2
+  - first:
+      213: -533923817894833666
+    second: PlayerHit_9
+  - first:
+      213: 2362348100732912200
+    second: PlayerHit_23
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PlayerHit_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8178b75d18d7f2a60800000000000000
+      internalID: 7651472288511657752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHit_29
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2766d1e40cb267b00800000000000000
+      internalID: 825895686613329522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHit_30
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e4a5f978082a3f10800000000000000
+      internalID: 2250154980695975141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHit_31
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe0bd0b00f7fd4a70800000000000000
+      internalID: 8812972656183587055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHit_32
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9905f01551983d4d0800000000000000
+      internalID: -3110992192935604071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHit_33
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b69500e81973d2e0800000000000000
+      internalID: -2102203453307251016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHit_34
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1859f30338e4b570800000000000000
+      internalID: 8481659304053135391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHit_35
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c2da0de7b855b800800000000000000
+      internalID: 627505270067221189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHit_172
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60cd406eb20c202e0800000000000000
+      internalID: -2160953576409211898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHit_173
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9454d577cf0ec510800000000000000
+      internalID: 1571210669348639903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHit_174
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f4be1a15da07c5f0800000000000000
+      internalID: -736608103669254927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHit_175
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7a11e7a737e78db0800000000000000
+      internalID: -4789605452459468165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHit_176
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 518e1d2c8fc771a00800000000000000
+      internalID: 727187272705894421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHit_177
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4c64779618125bd0800000000000000
+      internalID: -2643023546003723188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHit_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1280
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5edd9e86571a9400800000000000000
+      internalID: 331603183092489821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHit_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1280
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe34b19541b86c040800000000000000
+      internalID: 4667570983326663663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHit_9
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1216
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef11241dd1f1798f0800000000000000
+      internalID: -533923817894833666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerHit_23
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8420104d41fb8c020800000000000000
+      internalID: 2362348100732912200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

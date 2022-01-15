@@ -5,12 +5,12 @@ using UnityEngine.SceneManagement;
 
 public class PauseMenu : MonoBehaviour
 {
+    public Cutscene cutscene;
     public bool pauseGame;
     public GameObject pauseGameMenu;
-    public Animator animator;
     private void Update()
     {
-        if (Input.GetKeyDown(KeyCode.Escape))
+        if (Input.GetKeyDown(KeyCode.Escape) && !cutscene.IsEnabled())
         {
             if (pauseGame)
                 Resume();

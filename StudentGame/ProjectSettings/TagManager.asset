@@ -6,6 +6,11 @@ TagManager:
   tags:
   - DialogueWindow
   - LoseMenu
+  - ShieldLeft
+  - ShieldFront
+  - ShieldRight
+  - HealPotion
+  - HealParent
   layers:
   - Default
   - TransparentFX
