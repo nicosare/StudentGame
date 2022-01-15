@@ -5,13 +5,16 @@ using UnityEngine;
 public class MovingEnemy : Entity
 {
     private float speed = 2.5f;
-    private Vector3 dir;
     private SpriteRenderer sprite;
+    private Vector3 targetRight, targetLeft;
+    private Vector3 nextTarget;
 
 
     private void Start()
     {
-        dir = transform.right;
+        targetRight = transform.GetChild(1).transform.position;
+        targetLeft = transform.GetChild(2).transform.position;
+        nextTarget = targetRight;
         sprite = GetComponentInChildren<SpriteRenderer>();
         lives = 1;
     }
@@ -23,11 +26,18 @@ public class MovingEnemy : Entity
 
     private void Move()
     {
-        Collider2D[] collider = Physics2D.OverlapCircleAll(transform.position + transform.up * 0.1f + transform.right * dir.x * 0.7f, 0.1f);
-        if (collider.Length > 0)
-            dir *= -1f;
-        transform.position = Vector3.MoveTowards(transform.position, transform.position + dir, speed * Time.deltaTime);
-        sprite.flipX = dir.x < 0.0f;
+
+        transform.position = Vector3.MoveTowards(transform.position, nextTarget, speed * Time.deltaTime);
+        if (transform.position.x == targetRight.x)
+        {
+            sprite.flipX = true;
+            nextTarget = targetLeft;
+        }
+        else if (transform.position.x == targetLeft.x)
+        {
+            sprite.flipX = false;
+            nextTarget = targetRight;
+        }
     }
 
     private void OnCollisionEnter2D(Collision2D collision)

@@ -1,0 +1,4392 @@
+fileFormatVersion: 2
+guid: 348818e83b9681444ac2c761ed8a2860
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7468111033218143638
+    second: lpc_lizard_wiggle_wip_0
+  - first:
+      213: 4087896621022651483
+    second: lpc_lizard_wiggle_wip_1
+  - first:
+      213: -1513999099801264594
+    second: lpc_lizard_wiggle_wip_2
+  - first:
+      213: 7471768647846937640
+    second: lpc_lizard_wiggle_wip_3
+  - first:
+      213: -7418239550160797176
+    second: lpc_lizard_wiggle_wip_4
+  - first:
+      213: -6534926023305342324
+    second: lpc_lizard_wiggle_wip_5
+  - first:
+      213: -7125178590352952006
+    second: lpc_lizard_wiggle_wip_6
+  - first:
+      213: 7286967855192898635
+    second: lpc_lizard_wiggle_wip_7
+  - first:
+      213: 4124866240381150185
+    second: lpc_lizard_wiggle_wip_8
+  - first:
+      213: -1160692964297249167
+    second: lpc_lizard_wiggle_wip_9
+  - first:
+      213: 6494248200604926926
+    second: lpc_lizard_wiggle_wip_10
+  - first:
+      213: 6076248552111601222
+    second: lpc_lizard_wiggle_wip_11
+  - first:
+      213: -6297249929351401550
+    second: lpc_lizard_wiggle_wip_12
+  - first:
+      213: -7048748175124509311
+    second: lpc_lizard_wiggle_wip_13
+  - first:
+      213: 7094342002786640278
+    second: lpc_lizard_wiggle_wip_14
+  - first:
+      213: -7689001795481387365
+    second: lpc_lizard_wiggle_wip_15
+  - first:
+      213: -4602167337718202993
+    second: lpc_lizard_wiggle_wip_16
+  - first:
+      213: 6763010234997547774
+    second: lpc_lizard_wiggle_wip_17
+  - first:
+      213: 6360678871166337761
+    second: lpc_lizard_wiggle_wip_18
+  - first:
+      213: 3308608480366922331
+    second: lpc_lizard_wiggle_wip_19
+  - first:
+      213: 7209046886712227158
+    second: lpc_lizard_wiggle_wip_20
+  - first:
+      213: -2389329164945461803
+    second: lpc_lizard_wiggle_wip_21
+  - first:
+      213: -860494423085767529
+    second: lpc_lizard_wiggle_wip_22
+  - first:
+      213: 598834515639135182
+    second: lpc_lizard_wiggle_wip_23
+  - first:
+      213: 5759940283204899366
+    second: lpc_lizard_wiggle_wip_24
+  - first:
+      213: 950618710883056152
+    second: lpc_lizard_wiggle_wip_25
+  - first:
+      213: -3642893199705938639
+    second: lpc_lizard_wiggle_wip_26
+  - first:
+      213: -1729275088270625133
+    second: lpc_lizard_wiggle_wip_27
+  - first:
+      213: 841886766220139174
+    second: lpc_lizard_wiggle_wip_28
+  - first:
+      213: -776053464339744336
+    second: lpc_lizard_wiggle_wip_29
+  - first:
+      213: -8802657582843898477
+    second: lpc_lizard_wiggle_wip_30
+  - first:
+      213: 5874747670324022502
+    second: lpc_lizard_wiggle_wip_31
+  - first:
+      213: -2335095421832597295
+    second: lpc_lizard_wiggle_wip_32
+  - first:
+      213: 7867403341895456065
+    second: lpc_lizard_wiggle_wip_33
+  - first:
+      213: 5749281637718872702
+    second: lpc_lizard_wiggle_wip_34
+  - first:
+      213: -2170080511585339807
+    second: lpc_lizard_wiggle_wip_35
+  - first:
+      213: -316998701036203642
+    second: lpc_lizard_wiggle_wip_36
+  - first:
+      213: 5825231152860503714
+    second: lpc_lizard_wiggle_wip_37
+  - first:
+      213: 6693375809872366784
+    second: lpc_lizard_wiggle_wip_38
+  - first:
+      213: 7755085273226799322
+    second: lpc_lizard_wiggle_wip_39
+  - first:
+      213: 6747501158821444318
+    second: lpc_lizard_wiggle_wip_40
+  - first:
+      213: 2291643432206134669
+    second: lpc_lizard_wiggle_wip_41
+  - first:
+      213: 5112047985747018741
+    second: lpc_lizard_wiggle_wip_42
+  - first:
+      213: 291521901500556466
+    second: lpc_lizard_wiggle_wip_43
+  - first:
+      213: 3910851921569616630
+    second: lpc_lizard_wiggle_wip_44
+  - first:
+      213: -2015077200169656050
+    second: lpc_lizard_wiggle_wip_45
+  - first:
+      213: -474030390122089021
+    second: lpc_lizard_wiggle_wip_46
+  - first:
+      213: 4503432064698069096
+    second: lpc_lizard_wiggle_wip_47
+  - first:
+      213: 9145771715129284949
+    second: lpc_lizard_wiggle_wip_48
+  - first:
+      213: -2759314249555621817
+    second: lpc_lizard_wiggle_wip_49
+  - first:
+      213: 7153054147614009185
+    second: lpc_lizard_wiggle_wip_50
+  - first:
+      213: 8523299887751852615
+    second: lpc_lizard_wiggle_wip_51
+  - first:
+      213: 8587053034810865990
+    second: lpc_lizard_wiggle_wip_52
+  - first:
+      213: -3674543064646266988
+    second: lpc_lizard_wiggle_wip_53
+  - first:
+      213: -7314156819826906845
+    second: lpc_lizard_wiggle_wip_54
+  - first:
+      213: -210508562589469297
+    second: lpc_lizard_wiggle_wip_55
+  - first:
+      213: -8931026820720109446
+    second: lpc_lizard_wiggle_wip_56
+  - first:
+      213: -3179128934409133622
+    second: lpc_lizard_wiggle_wip_57
+  - first:
+      213: 5594901139317718316
+    second: lpc_lizard_wiggle_wip_58
+  - first:
+      213: 5042268807570544438
+    second: lpc_lizard_wiggle_wip_59
+  - first:
+      213: 1449284380436291692
+    second: lpc_lizard_wiggle_wip_60
+  - first:
+      213: -7008246845195200767
+    second: lpc_lizard_wiggle_wip_61
+  - first:
+      213: 98131990778342303
+    second: lpc_lizard_wiggle_wip_62
+  - first:
+      213: -8971119116799699017
+    second: lpc_lizard_wiggle_wip_63
+  - first:
+      213: -3523690328209465305
+    second: lpc_lizard_wiggle_wip_64
+  - first:
+      213: 2731686071754314408
+    second: lpc_lizard_wiggle_wip_65
+  - first:
+      213: -5877516365605982714
+    second: lpc_lizard_wiggle_wip_66
+  - first:
+      213: -5127495732109610296
+    second: lpc_lizard_wiggle_wip_67
+  - first:
+      213: -6212233686520230639
+    second: lpc_lizard_wiggle_wip_68
+  - first:
+      213: -2217440295219860375
+    second: lpc_lizard_wiggle_wip_69
+  - first:
+      213: 4733620210939532663
+    second: lpc_lizard_wiggle_wip_70
+  - first:
+      213: -2484611824203220491
+    second: lpc_lizard_wiggle_wip_71
+  - first:
+      213: 34740807914422333
+    second: lpc_lizard_wiggle_wip_72
+  - first:
+      213: 4268153828035551996
+    second: lpc_lizard_wiggle_wip_73
+  - first:
+      213: 653999173027760929
+    second: lpc_lizard_wiggle_wip_74
+  - first:
+      213: -728397576580026474
+    second: lpc_lizard_wiggle_wip_75
+  - first:
+      213: -5486600547458512814
+    second: lpc_lizard_wiggle_wip_76
+  - first:
+      213: 2001411308318959616
+    second: lpc_lizard_wiggle_wip_77
+  - first:
+      213: -4600540465391784909
+    second: lpc_lizard_wiggle_wip_78
+  - first:
+      213: 7969427469458402881
+    second: lpc_lizard_wiggle_wip_79
+  - first:
+      213: 4189608795665522516
+    second: lpc_lizard_wiggle_wip_80
+  - first:
+      213: 257649210302693230
+    second: lpc_lizard_wiggle_wip_81
+  - first:
+      213: 8879441222610404489
+    second: lpc_lizard_wiggle_wip_82
+  - first:
+      213: 2000962022733993509
+    second: lpc_lizard_wiggle_wip_83
+  - first:
+      213: -5395775626667788894
+    second: lpc_lizard_wiggle_wip_84
+  - first:
+      213: -25557589877855670
+    second: lpc_lizard_wiggle_wip_85
+  - first:
+      213: 8351796035485299675
+    second: lpc_lizard_wiggle_wip_86
+  - first:
+      213: -8072014981914327570
+    second: lpc_lizard_wiggle_wip_87
+  - first:
+      213: 4859942733900461423
+    second: lpc_lizard_wiggle_wip_88
+  - first:
+      213: -2583003415467145391
+    second: lpc_lizard_wiggle_wip_89
+  - first:
+      213: -4699406172032850883
+    second: lpc_lizard_wiggle_wip_90
+  - first:
+      213: 8474284038560500999
+    second: lpc_lizard_wiggle_wip_91
+  - first:
+      213: -4806164623883014430
+    second: lpc_lizard_wiggle_wip_92
+  - first:
+      213: 8472850929880455605
+    second: lpc_lizard_wiggle_wip_93
+  - first:
+      213: -5292340243188624307
+    second: lpc_lizard_wiggle_wip_94
+  - first:
+      213: 3696728357620241350
+    second: lpc_lizard_wiggle_wip_95
+  - first:
+      213: 6029849355803201573
+    second: lpc_lizard_wiggle_wip_96
+  - first:
+      213: -7861224361740929570
+    second: lpc_lizard_wiggle_wip_97
+  - first:
+      213: 1255056649519107287
+    second: lpc_lizard_wiggle_wip_98
+  - first:
+      213: -1898404462844449740
+    second: lpc_lizard_wiggle_wip_99
+  - first:
+      213: -4604856197237530537
+    second: lpc_lizard_wiggle_wip_100
+  - first:
+      213: 3484566595737537017
+    second: lpc_lizard_wiggle_wip_101
+  - first:
+      213: -678444934602345390
+    second: lpc_lizard_wiggle_wip_102
+  - first:
+      213: -8682994579475467529
+    second: lpc_lizard_wiggle_wip_103
+  - first:
+      213: -6032834287120138392
+    second: lpc_lizard_wiggle_wip_104
+  - first:
+      213: 6407162283080982546
+    second: lpc_lizard_wiggle_wip_105
+  - first:
+      213: 2595122452303863097
+    second: lpc_lizard_wiggle_wip_106
+  - first:
+      213: -5557348355587563102
+    second: lpc_lizard_wiggle_wip_107
+  - first:
+      213: -5698801358118501502
+    second: lpc_lizard_wiggle_wip_108
+  - first:
+      213: -6788330978472625631
+    second: lpc_lizard_wiggle_wip_109
+  - first:
+      213: -5408763732270489472
+    second: lpc_lizard_wiggle_wip_110
+  - first:
+      213: 3516733800919809824
+    second: lpc_lizard_wiggle_wip_111
+  - first:
+      213: -9182064970210747199
+    second: lpc_lizard_wiggle_wip_112
+  - first:
+      213: 7847126606232087745
+    second: lpc_lizard_wiggle_wip_113
+  - first:
+      213: 6636931055473179319
+    second: lpc_lizard_wiggle_wip_114
+  - first:
+      213: -4358105069419414160
+    second: lpc_lizard_wiggle_wip_115
+  - first:
+      213: -5249034850331028362
+    second: lpc_lizard_wiggle_wip_116
+  - first:
+      213: 349945860295649086
+    second: lpc_lizard_wiggle_wip_117
+  - first:
+      213: 6527720262517452171
+    second: lpc_lizard_wiggle_wip_118
+  - first:
+      213: 7166632368968512635
+    second: lpc_lizard_wiggle_wip_119
+  - first:
+      213: -3215924636785245002
+    second: lpc_lizard_wiggle_wip_120
+  - first:
+      213: -1152927031522057777
+    second: lpc_lizard_wiggle_wip_121
+  - first:
+      213: 4216550260516228841
+    second: lpc_lizard_wiggle_wip_122
+  - first:
+      213: 6265113089788219593
+    second: lpc_lizard_wiggle_wip_123
+  - first:
+      213: 2410153991153780269
+    second: lpc_lizard_wiggle_wip_124
+  - first:
+      213: -8737219336673898747
+    second: lpc_lizard_wiggle_wip_125
+  - first:
+      213: 2841521374840405725
+    second: lpc_lizard_wiggle_wip_126
+  - first:
+      213: -5287805792976635704
+    second: lpc_lizard_wiggle_wip_127
+  - first:
+      213: 2348558157002374818
+    second: lpc_lizard_wiggle_wip_128
+  - first:
+      213: -6553947505542917068
+    second: lpc_lizard_wiggle_wip_129
+  - first:
+      213: 2388928319553332643
+    second: lpc_lizard_wiggle_wip_130
+  - first:
+      213: -1420932896227383182
+    second: lpc_lizard_wiggle_wip_131
+  - first:
+      213: -4996984806080528435
+    second: lpc_lizard_wiggle_wip_132
+  - first:
+      213: -1131420309447709902
+    second: lpc_lizard_wiggle_wip_133
+  - first:
+      213: 7514518641695693588
+    second: lpc_lizard_wiggle_wip_134
+  - first:
+      213: -858295988651964943
+    second: lpc_lizard_wiggle_wip_135
+  - first:
+      213: 3558042992373246155
+    second: lpc_lizard_wiggle_wip_136
+  - first:
+      213: -746459531371891900
+    second: lpc_lizard_wiggle_wip_137
+  - first:
+      213: 7882799509762599416
+    second: lpc_lizard_wiggle_wip_138
+  - first:
+      213: -5696433771538274289
+    second: lpc_lizard_wiggle_wip_139
+  - first:
+      213: -5867164241700530327
+    second: lpc_lizard_wiggle_wip_140
+  - first:
+      213: 733212504296267205
+    second: lpc_lizard_wiggle_wip_141
+  - first:
+      213: -8102231709834168299
+    second: lpc_lizard_wiggle_wip_142
+  - first:
+      213: 2032499402408963438
+    second: lpc_lizard_wiggle_wip_143
+  - first:
+      213: 5941947820564460111
+    second: lpc_lizard_wiggle_wip_144
+  - first:
+      213: 2559289348000595598
+    second: lpc_lizard_wiggle_wip_145
+  - first:
+      213: -3212831836548974096
+    second: lpc_lizard_wiggle_wip_146
+  - first:
+      213: 8495509904924425338
+    second: lpc_lizard_wiggle_wip_147
+  - first:
+      213: 2885548242849671408
+    second: lpc_lizard_wiggle_wip_148
+  - first:
+      213: -8151679229939797052
+    second: lpc_lizard_wiggle_wip_149
+  - first:
+      213: 1183423674857970810
+    second: lpc_lizard_wiggle_wip_150
+  - first:
+      213: 6275295659718787454
+    second: lpc_lizard_wiggle_wip_151
+  - first:
+      213: -5326128414512626174
+    second: lpc_lizard_wiggle_wip_152
+  - first:
+      213: 7973056099909641892
+    second: lpc_lizard_wiggle_wip_153
+  - first:
+      213: -4529034209081007523
+    second: lpc_lizard_wiggle_wip_154
+  - first:
+      213: 4075026697137039391
+    second: lpc_lizard_wiggle_wip_155
+  - first:
+      213: -1651381531412540837
+    second: lpc_lizard_wiggle_wip_156
+  - first:
+      213: -2004309040844671538
+    second: lpc_lizard_wiggle_wip_157
+  - first:
+      213: 6603493373830629926
+    second: lpc_lizard_wiggle_wip_158
+  - first:
+      213: -7120129330088216562
+    second: lpc_lizard_wiggle_wip_159
+  - first:
+      213: 1486158164894999186
+    second: lpc_lizard_wiggle_wip_160
+  - first:
+      213: 1673621822411923257
+    second: lpc_lizard_wiggle_wip_161
+  - first:
+      213: 366068647142272083
+    second: lpc_lizard_wiggle_wip_162
+  - first:
+      213: 8090576611445748965
+    second: lpc_lizard_wiggle_wip_163
+  - first:
+      213: -2267292405005192186
+    second: lpc_lizard_wiggle_wip_164
+  - first:
+      213: 3557492636774215303
+    second: lpc_lizard_wiggle_wip_165
+  - first:
+      213: 3559211645840696756
+    second: lpc_lizard_wiggle_wip_166
+  - first:
+      213: -5652491410305141537
+    second: lpc_lizard_wiggle_wip_167
+  - first:
+      213: -2188662553007923323
+    second: lpc_lizard_wiggle_wip_168
+  - first:
+      213: 7169895608117329358
+    second: lpc_lizard_wiggle_wip_169
+  - first:
+      213: -8399477143629206343
+    second: lpc_lizard_wiggle_wip_170
+  - first:
+      213: -7541410674255396741
+    second: lpc_lizard_wiggle_wip_171
+  - first:
+      213: 4395395543942442545
+    second: lpc_lizard_wiggle_wip_172
+  - first:
+      213: -619314818319392219
+    second: lpc_lizard_wiggle_wip_173
+  - first:
+      213: -3808719921134028763
+    second: lpc_lizard_wiggle_wip_174
+  - first:
+      213: 561581621815224129
+    second: lpc_lizard_wiggle_wip_175
+  - first:
+      213: -6738348608816395351
+    second: lpc_lizard_wiggle_wip_176
+  - first:
+      213: 1432006738806407247
+    second: lpc_lizard_wiggle_wip_177
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 35
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: lpc_lizard_wiggle_wip_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1281
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 695942eba6f04a760800000000000000
+      internalID: 7468111033218143638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_lizard_wiggle_wip_1
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1281
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b54239671502bb830800000000000000
+      internalID: 4087896621022651483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_lizard_wiggle_wip_2
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1281
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2e951a17d13dfae0800000000000000
+      internalID: -1513999099801264594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_lizard_wiggle_wip_3
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 1281
+        width: 36
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82441d28ffd01b760800000000000000
+      internalID: 7471768647846937640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_lizard_wiggle_wip_4
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 1281
+        width: 50
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80289e1ce6e1d0990800000000000000
+      internalID: -7418239550160797176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_lizard_wiggle_wip_5
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 1281
+        width: 48
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c82dd63c7674f45a0800000000000000
+      internalID: -6534926023305342324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_lizard_wiggle_wip_6
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 1281
+        width: 36
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a353bc8a2d74e1d90800000000000000
+      internalID: -7125178590352952006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_lizard_wiggle_wip_7
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1218
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4c767208a2802560800000000000000
+      internalID: 7286967855192898635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_lizard_wiggle_wip_8
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 1218
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e36bebbdf77e3930800000000000000
+      internalID: 4124866240381150185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_lizard_wiggle_wip_9
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1218
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17e64c906e364efe0800000000000000
+      internalID: -1160692964297249167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_lizard_wiggle_wip_10
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 1218
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec3c6489454302a50800000000000000
+      internalID: 6494248200604926926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_lizard_wiggle_wip_11
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 1218
+        width: 33
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 646f7936ddb235450800000000000000
+      internalID: 6076248552111601222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_lizard_wiggle_wip_12
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 1218
+        width: 33
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bfe723bd8cab98a0800000000000000
+      internalID: -6297249929351401550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_lizard_wiggle_wip_13
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 1218
+        width: 33
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18d458e61e0dd2e90800000000000000
+      internalID: -7048748175124509311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_lizard_wiggle_wip_14
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1154
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6912b3fc67a247260800000000000000
+      internalID: 7094342002786640278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_lizard_wiggle_wip_15
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1154
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9ebdf6ea9d2b4590800000000000000
+      internalID: -7689001795481387365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_lizard_wiggle_wip_16
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1154
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8db66e8031d120c0800000000000000
+      internalID: -4602167337718202993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_lizard_wiggle_wip_17
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 1154
+        width: 36
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef22c5d0af90bdd50800000000000000
+      internalID: 6763010234997547774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_lizard_wiggle_wip_18
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 1154
+        width: 50
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e2c336abbba54850800000000000000
+      internalID: 6360678871166337761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_lizard_wiggle_wip_19
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 1154
+        width: 48
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5a8d1512e98aed20800000000000000
+      internalID: 3308608480366922331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_lizard_wiggle_wip_20
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 1154
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6553e93c2fdab0460800000000000000
+      internalID: 7209046886712227158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_lizard_wiggle_wip_21
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1090
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dde1ff98c567ded0800000000000000
+      internalID: -2389329164945461803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_lizard_wiggle_wip_22
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 1090
+        width: 30
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 794a4cc91e8ee04f0800000000000000
+      internalID: -860494423085767529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_lizard_wiggle_wip_23
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 1090
+        width: 30
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecbe9e7b1dc7f4800800000000000000
+      internalID: 598834515639135182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_lizard_wiggle_wip_24
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 1090
+        width: 31
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62214eb8b2b6fef40800000000000000
+      internalID: 5759940283204899366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_lizard_wiggle_wip_25
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 1090
+        width: 33
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81a36035ea6413d00800000000000000
+      internalID: 950618710883056152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_lizard_wiggle_wip_26
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 1090
+        width: 33
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13567dc8fe7d17dc0800000000000000
+      internalID: -3642893199705938639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_lizard_wiggle_wip_27
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 1090
+        width: 31
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39672b428716008e0800000000000000
+      internalID: -1729275088270625133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_lizard_wiggle_wip_28
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1025
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aa57a9ad8bfeab00800000000000000
+      internalID: 841886766220139174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_lizard_wiggle_wip_29
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 1024
+        width: 26
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b971536c77ea35f0800000000000000
+      internalID: -776053464339744336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_lizard_wiggle_wip_30
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 1024
+        width: 22
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 395d03f119da6d580800000000000000
+      internalID: -8802657582843898477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_lizard_wiggle_wip_31
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 1024
+        width: 22
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ec87b261eb478150800000000000000
+      internalID: 5874747670324022502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_lizard_wiggle_wip_32
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 1024
+        width: 26
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d0f601f513189fd0800000000000000
+      internalID: -2335095421832597295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_lizard_wiggle_wip_33
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 1024
+        width: 26
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 145566af7a1ae2d60800000000000000
+      internalID: 7867403341895456065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_lizard_wiggle_wip_34
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 1024
+        width: 26
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e72d8e1403d89cf40800000000000000
+      internalID: 5749281637718872702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_lizard_wiggle_wip_35
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 1024
+        width: 22
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16635f4b54352e1e0800000000000000
+      internalID: -2170080511585339807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_lizard_wiggle_wip_36
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 962
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6811a766c5bc99bf0800000000000000
+      internalID: -316998701036203642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_lizard_wiggle_wip_37
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 962
+        width: 33
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ae1ac0ced067d050800000000000000
+      internalID: 5825231152860503714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_lizard_wiggle_wip_38
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 962
+        width: 33
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cc82a706d5a3ec50800000000000000
+      internalID: 6693375809872366784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_lizard_wiggle_wip_39
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 962
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad8eb81c7f89f9b60800000000000000
+      internalID: 7755085273226799322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_lizard_wiggle_wip_40
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 962
+        width: 37
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edab61ddd80f3ad50800000000000000
+      internalID: 6747501158821444318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_lizard_wiggle_wip_41
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 962
+        width: 40
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8de0885f8d8dcf10800000000000000
+      internalID: 2291643432206134669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_lizard_wiggle_wip_42
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 962
+        width: 36
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f3c339ee84a1f640800000000000000
+      internalID: 5112047985747018741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_lizard_wiggle_wip_43
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 962
+        width: 31
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b4ef27ff91bb0400800000000000000
+      internalID: 291521901500556466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_lizard_wiggle_wip_44
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 898
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f29f422a13264630800000000000000
+      internalID: 3910851921569616630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_lizard_wiggle_wip_45
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 899
+        width: 24
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0126e876f10904e0800000000000000
+      internalID: -2015077200169656050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_lizard_wiggle_wip_46
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 899
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c578082fd7eb69f0800000000000000
+      internalID: -474030390122089021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_lizard_wiggle_wip_47
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 899
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 860be664a976f7e30800000000000000
+      internalID: 4503432064698069096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_lizard_wiggle_wip_48
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 899
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55998152bee4cee70800000000000000
+      internalID: 9145771715129284949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_lizard_wiggle_wip_49
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 899
+        width: 25
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 748409b3f42f4b9d0800000000000000
+      internalID: -2759314249555621817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_lizard_wiggle_wip_50
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 899
+        width: 27
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 167eaa749d0c44360800000000000000
+      internalID: 7153054147614009185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_lizard_wiggle_wip_51
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 899
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 742739be618d84670800000000000000
+      internalID: 8523299887751852615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_lizard_wiggle_wip_52
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 834
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 649775f2d375b2770800000000000000
+      internalID: 8587053034810865990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_lizard_wiggle_wip_53
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 834
+        width: 31
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49f42ef1d86610dc0800000000000000
+      internalID: -3674543064646266988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_lizard_wiggle_wip_54
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 834
+        width: 31
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32967badf15ee7a90800000000000000
+      internalID: -7314156819826906845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_lizard_wiggle_wip_55
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 834
+        width: 31
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f853da0e39f141df0800000000000000
+      internalID: -210508562589469297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_lizard_wiggle_wip_56
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 834
+        width: 36
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a78dd77dc6e9e0480800000000000000
+      internalID: -8931026820720109446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_lizard_wiggle_wip_57
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 834
+        width: 39
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac1a061f31771e3d0800000000000000
+      internalID: -3179128934409133622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_lizard_wiggle_wip_58
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 834
+        width: 36
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2df57271f415ad40800000000000000
+      internalID: 5594901139317718316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_lizard_wiggle_wip_59
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 834
+        width: 31
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6375641f3ccb9f540800000000000000
+      internalID: 5042268807570544438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_lizard_wiggle_wip_60
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 770
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c606d622774ec1410800000000000000
+      internalID: 1449284380436291692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_lizard_wiggle_wip_61
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 770
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10753e520a4bdbe90800000000000000
+      internalID: -7008246845195200767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_lizard_wiggle_wip_62
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 770
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9be1739682ac5100800000000000000
+      internalID: 98131990778342303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_lizard_wiggle_wip_63
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 769
+        width: 29
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b7107db1be208380800000000000000
+      internalID: -8971119116799699017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_lizard_wiggle_wip_64
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 770
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7206898d056591fc0800000000000000
+      internalID: -3523690328209465305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_lizard_wiggle_wip_65
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 770
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a25cc85206e8e520800000000000000
+      internalID: 2731686071754314408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_lizard_wiggle_wip_66
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 770
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60ea282810ede6ea0800000000000000
+      internalID: -5877516365605982714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_lizard_wiggle_wip_67
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 769
+        width: 29
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c2764c5cc977d8b0800000000000000
+      internalID: -5127495732109610296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_lizard_wiggle_wip_68
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 770
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11d0f3d3066b9c9a0800000000000000
+      internalID: -6212233686520230639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_lizard_wiggle_wip_69
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 706
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96c68ccccc11a31e0800000000000000
+      internalID: -2217440295219860375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_lizard_wiggle_wip_70
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 706
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77519a6808231b140800000000000000
+      internalID: 4733620210939532663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_lizard_wiggle_wip_71
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 707
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f9b1adb5b2e48dd0800000000000000
+      internalID: -2484611824203220491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_lizard_wiggle_wip_72
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 707
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3003faa49c6b7000800000000000000
+      internalID: 34740807914422333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_lizard_wiggle_wip_73
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 706
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf268cefa478b3b30800000000000000
+      internalID: 4268153828035551996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_lizard_wiggle_wip_74
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 706
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12b08b768c8731900800000000000000
+      internalID: 653999173027760929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_lizard_wiggle_wip_75
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 706
+        width: 31
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69f21b8634634e5f0800000000000000
+      internalID: -728397576580026474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_lizard_wiggle_wip_76
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 706
+        width: 31
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25885401fddabd3b0800000000000000
+      internalID: -5486600547458512814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_lizard_wiggle_wip_77
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 706
+        width: 33
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0082dc12bf076cb10800000000000000
+      internalID: 2001411308318959616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_lizard_wiggle_wip_78
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 642
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33c238942d89720c0800000000000000
+      internalID: -4600540465391784909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_lizard_wiggle_wip_79
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 642
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14eee444f08199e60800000000000000
+      internalID: 7969427469458402881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_lizard_wiggle_wip_80
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 641
+        width: 30
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45fde7d800b742a30800000000000000
+      internalID: 4189608795665522516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_lizard_wiggle_wip_81
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 641
+        width: 29
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6f70c8779a539300800000000000000
+      internalID: 257649210302693230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_lizard_wiggle_wip_82
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 641
+        width: 30
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98447a52fbc1a3b70800000000000000
+      internalID: 8879441222610404489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_lizard_wiggle_wip_83
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 642
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5265b1eab58d4cb10800000000000000
+      internalID: 2000962022733993509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_lizard_wiggle_wip_84
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 641
+        width: 30
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a571c4d7aa5e15b0800000000000000
+      internalID: -5395775626667788894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_lizard_wiggle_wip_85
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 641
+        width: 29
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4ae306e18335aff0800000000000000
+      internalID: -25557589877855670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_lizard_wiggle_wip_86
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 641
+        width: 30
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd3fd9b9e3a87e370800000000000000
+      internalID: 8351796035485299675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_lizard_wiggle_wip_87
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 578
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee58d5d24217aff80800000000000000
+      internalID: -8072014981914327570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_lizard_wiggle_wip_88
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 578
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f65b0eada2cf17340800000000000000
+      internalID: 4859942733900461423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_lizard_wiggle_wip_89
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 578
+        width: 39
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 157c5773414572cd0800000000000000
+      internalID: -2583003415467145391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_lizard_wiggle_wip_90
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 578
+        width: 39
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3424bc2cfa58ceb0800000000000000
+      internalID: -4699406172032850883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_lizard_wiggle_wip_91
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 578
+        width: 39
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70d49243f64ba9570800000000000000
+      internalID: 8474284038560500999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_lizard_wiggle_wip_92
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 578
+        width: 38
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ee676d1db21d4db0800000000000000
+      internalID: -4806164623883014430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_lizard_wiggle_wip_93
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 578
+        width: 38
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b9dc56970d959570800000000000000
+      internalID: 8472850929880455605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_lizard_wiggle_wip_94
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 578
+        width: 38
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d44dc3eb694dd86b0800000000000000
+      internalID: -5292340243188624307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_lizard_wiggle_wip_95
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 578
+        width: 39
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c3511beada6d4330800000000000000
+      internalID: 3696728357620241350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_lizard_wiggle_wip_96
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 513
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52094c5aa045ea350800000000000000
+      internalID: 6029849355803201573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_lizard_wiggle_wip_97
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 511
+        width: 26
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed5f8c2f71257e290800000000000000
+      internalID: -7861224361740929570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_lizard_wiggle_wip_98
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 511
+        width: 25
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dc04978f5bda6110800000000000000
+      internalID: 1255056649519107287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_lizard_wiggle_wip_99
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 511
+        width: 27
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43ce320033387a5e0800000000000000
+      internalID: -1898404462844449740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_lizard_wiggle_wip_100
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 511
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 750a6e9afa34810c0800000000000000
+      internalID: -4604856197237530537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_lizard_wiggle_wip_101
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 511
+        width: 39
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f9c0275bdaab5030800000000000000
+      internalID: 3484566595737537017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_lizard_wiggle_wip_102
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 450
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2543d513deda596f0800000000000000
+      internalID: -678444934602345390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_lizard_wiggle_wip_103
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 450
+        width: 35
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f2f8b73f6ecf7780800000000000000
+      internalID: -8682994579475467529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_lizard_wiggle_wip_104
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 450
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86f386fdd21174ca0800000000000000
+      internalID: -6032834287120138392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_lizard_wiggle_wip_105
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 450
+        width: 39
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 210a25d5620dae850800000000000000
+      internalID: 6407162283080982546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_lizard_wiggle_wip_106
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 450
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93d563eee1ab30420800000000000000
+      internalID: 2595122452303863097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_lizard_wiggle_wip_107
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 450
+        width: 39
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a12a1c5d1550e2b0800000000000000
+      internalID: -5557348355587563102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_lizard_wiggle_wip_108
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 386
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28345dbbb5ac9e0b0800000000000000
+      internalID: -5698801358118501502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_lizard_wiggle_wip_109
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 386
+        width: 26
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12afb52f0f00bc1a0800000000000000
+      internalID: -6788330978472625631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_lizard_wiggle_wip_110
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 386
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0806008da0630f4b0800000000000000
+      internalID: -5408763732270489472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_lizard_wiggle_wip_111
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 386
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02f3f6d62c2fdc030800000000000000
+      internalID: 3516733800919809824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_lizard_wiggle_wip_112
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 386
+        width: 35
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ccd70aee80c29080800000000000000
+      internalID: -9182064970210747199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_lizard_wiggle_wip_113
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 386
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cceaff821896ec60800000000000000
+      internalID: 7847126606232087745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_lizard_wiggle_wip_114
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 322
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7babc3881ad1b1c50800000000000000
+      internalID: 6636931055473179319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_lizard_wiggle_wip_115
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 322
+        width: 33
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07d3d639786e483c0800000000000000
+      internalID: -4358105069419414160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_lizard_wiggle_wip_116
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 322
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6749f5c3d9ea727b0800000000000000
+      internalID: -5249034850331028362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_lizard_wiggle_wip_117
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 322
+        width: 39
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e376a85e7e14bd400800000000000000
+      internalID: 349945860295649086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_lizard_wiggle_wip_118
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 322
+        width: 41
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8de8705efe179a50800000000000000
+      internalID: 6527720262517452171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_lizard_wiggle_wip_119
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 322
+        width: 38
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b743f2c4b2ef47360800000000000000
+      internalID: 7166632368968512635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_lizard_wiggle_wip_120
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 257
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b40dffd49dbe53d0800000000000000
+      internalID: -3215924636785245002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_lizard_wiggle_wip_121
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 256
+        width: 26
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc1ae2a29faffffe0800000000000000
+      internalID: -1152927031522057777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_lizard_wiggle_wip_122
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 256
+        width: 22
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ee86a72f12348a30800000000000000
+      internalID: 4216550260516228841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_lizard_wiggle_wip_123
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 256
+        width: 23
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c01a72492722f650800000000000000
+      internalID: 6265113089788219593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_lizard_wiggle_wip_124
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 256
+        width: 28
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2606b01946927120800000000000000
+      internalID: 2410153991153780269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_lizard_wiggle_wip_125
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 256
+        width: 26
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50fc0e81e492fb680800000000000000
+      internalID: -8737219336673898747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_lizard_wiggle_wip_126
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 256
+        width: 27
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddeba09a2ac1f6720800000000000000
+      internalID: 2841521374840405725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_lizard_wiggle_wip_127
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 256
+        width: 28
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c8ff54b5a0fd96b0800000000000000
+      internalID: -5287805792976635704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_lizard_wiggle_wip_128
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 256
+        width: 29
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aef87a5331c79020800000000000000
+      internalID: 2348558157002374818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_lizard_wiggle_wip_129
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 256
+        width: 28
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4349e8fc773bb05a0800000000000000
+      internalID: -6553947505542917068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_lizard_wiggle_wip_130
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 256
+        width: 23
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a5e8d846ad272120800000000000000
+      internalID: 2388928319553332643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_lizard_wiggle_wip_131
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 256
+        width: 23
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27823be2f05d74ce0800000000000000
+      internalID: -1420932896227383182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_lizard_wiggle_wip_132
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 256
+        width: 23
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcfbb854bc427aab0800000000000000
+      internalID: -4996984806080528435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_lizard_wiggle_wip_133
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 194
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23be4bb19336c40f0800000000000000
+      internalID: -1131420309447709902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_lizard_wiggle_wip_134
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 194
+        width: 33
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41b925814eee84860800000000000000
+      internalID: 7514518641695693588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_lizard_wiggle_wip_135
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 194
+        width: 38
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f5c1448858b614f0800000000000000
+      internalID: -858295988651964943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_lizard_wiggle_wip_136
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 194
+        width: 40
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc8a9ff0045b06130800000000000000
+      internalID: 3558042992373246155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_lizard_wiggle_wip_137
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 194
+        width: 40
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 443bf59d20b04a5f0800000000000000
+      internalID: -746459531371891900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_lizard_wiggle_wip_138
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 194
+        width: 41
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f9e507a364556d60800000000000000
+      internalID: 7882799509762599416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_lizard_wiggle_wip_139
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 194
+        width: 41
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f082ce07aa332f0b0800000000000000
+      internalID: -5696433771538274289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_lizard_wiggle_wip_140
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 194
+        width: 40
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 967d09e2535a39ea0800000000000000
+      internalID: -5867164241700530327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_lizard_wiggle_wip_141
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 194
+        width: 40
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cd147f43e4ec2a00800000000000000
+      internalID: 733212504296267205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_lizard_wiggle_wip_142
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 194
+        width: 40
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 518bd67ff271f8f80800000000000000
+      internalID: -8102231709834168299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_lizard_wiggle_wip_143
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 194
+        width: 39
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6da7c61073e43c10800000000000000
+      internalID: 2032499402408963438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_lizard_wiggle_wip_144
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 194
+        width: 39
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f42b6ae9f0a067250800000000000000
+      internalID: 5941947820564460111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_lizard_wiggle_wip_145
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 194
+        width: 41
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8e34013a1c648320800000000000000
+      internalID: 2559289348000595598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_lizard_wiggle_wip_146
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 130
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f9be6b877ab963d0800000000000000
+      internalID: -3212831836548974096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_lizard_wiggle_wip_147
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 131
+        width: 25
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7c35d45f3d16e570800000000000000
+      internalID: 8495509904924425338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_lizard_wiggle_wip_148
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 131
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f8ae4da6d68b0820800000000000000
+      internalID: 2885548242849671408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_lizard_wiggle_wip_149
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 130
+        width: 25
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c332880eea6fde80800000000000000
+      internalID: -8151679229939797052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_lizard_wiggle_wip_150
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 130
+        width: 24
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7c52beef8d5c6010800000000000000
+      internalID: 1183423674857970810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_lizard_wiggle_wip_151
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 130
+        width: 24
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e71c6129724561750800000000000000
+      internalID: 6275295659718787454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_lizard_wiggle_wip_152
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 130
+        width: 24
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2064cd01d6ac516b0800000000000000
+      internalID: -5326128414512626174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_lizard_wiggle_wip_153
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 130
+        width: 25
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a62061a74cf5ae60800000000000000
+      internalID: 7973056099909641892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_lizard_wiggle_wip_154
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 130
+        width: 25
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d526228f163a521c0800000000000000
+      internalID: -4529034209081007523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_lizard_wiggle_wip_155
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 130
+        width: 24
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f18261dc0376d8830800000000000000
+      internalID: 4075026697137039391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_lizard_wiggle_wip_156
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 130
+        width: 25
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b52d38f1f3d1519e0800000000000000
+      internalID: -1651381531412540837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_lizard_wiggle_wip_157
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 130
+        width: 22
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec57950fb834f24e0800000000000000
+      internalID: -2004309040844671538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_lizard_wiggle_wip_158
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 130
+        width: 25
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62a02d79c3254ab50800000000000000
+      internalID: 6603493373830629926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_lizard_wiggle_wip_159
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 66
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e08704d2918303d90800000000000000
+      internalID: -7120129330088216562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_lizard_wiggle_wip_160
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 66
+        width: 31
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 292ec9a1af4ef9410800000000000000
+      internalID: 1486158164894999186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_lizard_wiggle_wip_161
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 66
+        width: 36
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93f54352e26e93710800000000000000
+      internalID: 1673621822411923257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_lizard_wiggle_wip_162
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 66
+        width: 39
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35ca25cbe79841500800000000000000
+      internalID: 366068647142272083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_lizard_wiggle_wip_163
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 66
+        width: 39
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e4be49ff80874070800000000000000
+      internalID: 8090576611445748965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_lizard_wiggle_wip_164
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 66
+        width: 40
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60479bdf195f880e0800000000000000
+      internalID: -2267292405005192186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_lizard_wiggle_wip_165
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 66
+        width: 40
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78eaef964b0ce5130800000000000000
+      internalID: 3557492636774215303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_lizard_wiggle_wip_166
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 66
+        width: 39
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b5a4c6622cd46130800000000000000
+      internalID: 3559211645840696756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_lizard_wiggle_wip_167
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 66
+        width: 39
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd4b0d0b2015e81b0800000000000000
+      internalID: -5652491410305141537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_lizard_wiggle_wip_168
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 66
+        width: 39
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58f53ca010f40a1e0800000000000000
+      internalID: -2188662553007923323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_lizard_wiggle_wip_169
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 66
+        width: 39
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecd777e5116908360800000000000000
+      internalID: 7169895608117329358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_lizard_wiggle_wip_170
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 66
+        width: 39
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bce7fa4a001f6b80800000000000000
+      internalID: -8399477143629206343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_lizard_wiggle_wip_171
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 66
+        width: 39
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b700ba7a2f6875790800000000000000
+      internalID: -7541410674255396741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_lizard_wiggle_wip_172
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 2
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13e260c95f49ffc30800000000000000
+      internalID: 4395395543942442545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_lizard_wiggle_wip_173
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 2
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 522efe93470c767f0800000000000000
+      internalID: -619314818319392219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_lizard_wiggle_wip_174
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 2
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5283ad34965b42bc0800000000000000
+      internalID: -3808719921134028763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_lizard_wiggle_wip_175
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 3
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1472fa872832bc700800000000000000
+      internalID: 561581621815224129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_lizard_wiggle_wip_176
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 3
+        width: 31
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ab40ce34a39c72a0800000000000000
+      internalID: -6738348608816395351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc_lizard_wiggle_wip_177
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 3
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f408586ba828fd310800000000000000
+      internalID: 1432006738806407247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

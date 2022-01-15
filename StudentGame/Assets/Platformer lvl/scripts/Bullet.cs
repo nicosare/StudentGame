@@ -6,13 +6,15 @@ public class Bullet : Entity
 {
     private float speed = 2.5f;
     private Vector3 dir;
-    private SpriteRenderer sprite;
-    private int timeLife = 3;
+    private float timeLife = 2f;
+    public float TimeLife
+    {
+        set { timeLife = value; }
+    }
 
     void Start()
     {
         dir = transform.right * -1;
-        sprite = GetComponent<SpriteRenderer>();
         StartCoroutine(Death());
     }
     private void Update()
@@ -28,6 +30,7 @@ public class Bullet : Entity
 
     private IEnumerator Death()
     {
+        yield return new WaitForSeconds(1);
         yield return new WaitForSeconds(timeLife);
         Die();
     }
@@ -37,7 +40,11 @@ public class Bullet : Entity
         if (collision.gameObject == Hero.Instance.gameObject)
         {
             Hero.Instance.GetDamage();
+            Die();
+        } 
+        else
+        {
+            Die();
         }
-        Die();
     }
 }

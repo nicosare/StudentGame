@@ -1,16 +1,18 @@
-
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
 public class Hero : Entity
 {
-    [SerializeField] private float speed = 3f; // скорость движения
-    [SerializeField] private float jumpForce = 2f; // сила прыжка
+    static Vector3 lastCheckpointPosition = Vector3.zero;
+    [SerializeField] private float speed = 3.2f; // скорость движения
+    [SerializeField] private float jumpForce = 10.2f; // сила прыжка
     [SerializeField] private GameObject loseGameMenu;
     private bool isGrounded = false;
     private bool isDie = false;
     private bool isDamage = false;
+    private bool isDialogue = false;
+    private bool isHeal = false;
     private HealthBar healthBar;
     private int maxHealth = 100;
     private int currentHealth;
@@ -27,11 +29,23 @@ public class Hero : Entity
     public float attackRange;
     public LayerMask enemy;
     public static Hero Instance { get; set; }
+    public bool IsDialogue
+    {
+        set { isDialogue = value; }
+    }
 
     private States State
     {
         get { return (States)anim.GetInteger("state"); }
-        set { anim.SetInteger("state", (int)value);  }
+        set { anim.SetInteger("state", (int)value); }
+    }
+
+    private void Start()
+    {
+        if (lastCheckpointPosition != Vector3.zero)
+        {
+            transform.position = lastCheckpointPosition;
+        }
     }
 
     private void Awake()
@@ -54,19 +68,20 @@ public class Hero : Entity
 
     private void Update()
     {
-        if (isGrounded && !isDie && !isDamage && !isAttacking) State = States.idle;
+        if (isGrounded && !isDie && !isDamage && !isAttacking && !isHeal) State = States.idle;
+        if (!isGrounded && !isDie && !isDamage && !isAttacking && !isHeal) State = States.jump;
 
-        if (Input.GetButton("Horizontal") && !isDie && !isAttacking)
+        if (Input.GetButton("Horizontal") && !isDie && !isAttacking && !isDialogue)
             Run();
-        if (isGrounded && Input.GetButtonDown("Jump") && !isDie && !isAttacking)
+        if (isGrounded && Input.GetButtonDown("Jump") && !isDie && !isAttacking && !isDialogue)
             Jump();
-        if (Input.GetButtonDown("Fire1") && isGrounded && !isDie)
+        if (Input.GetButtonDown("Fire1") && isGrounded && !isDie && !isDialogue)
             Attack();
     }
 
     private void Run()
     {
-        if (isGrounded & !isDamage) State = States.run;
+        if (isGrounded && !isDamage && !isHeal) State = States.run;
 
         Vector3 dir = transform.right * Input.GetAxis("Horizontal");
 
@@ -78,19 +93,23 @@ public class Hero : Entity
     private void Jump()
     {
         rb.AddForce(transform.up * jumpForce, ForceMode2D.Impulse);
-        if (!isGrounded & !isDamage) State = States.jump;
     }
-
     private void CheckGround()
     {
-        Collider2D[] collider = Physics2D.OverlapCircleAll(groundChecker.transform.position, 0.3f);
+        Collider2D[] collider = Physics2D.OverlapCircleAll(groundChecker.transform.position, 0.1f);
         isGrounded = collider.Length > 1;
     }
 
     private IEnumerator DamageAnimation()
     {
-        yield return new WaitForSeconds(0.21f);
+        yield return new WaitForSeconds(0.4f);
         isDamage = false;
+    }
+
+    private IEnumerator HealAnimation()
+    {
+        yield return new WaitForSeconds(0.4f);
+        isHeal = false;
     }
     public override void GetDamage()
     {
@@ -108,6 +127,9 @@ public class Hero : Entity
 
     public override void GetHeal()
     {
+        isHeal = true;
+        State = States.heal;
+        StartCoroutine(HealAnimation());
         if (currentHealth < maxHealth)
         {
             currentHealth += 20;
@@ -120,6 +142,11 @@ public class Hero : Entity
         healthBar.SetHealth(0);
         Time.timeScale = 0f;
         loseGameMenu.SetActive(true);
+    }
+
+    public void EndGame()
+    {
+        sprite.enabled = false;
     }
 
     private void Attack()
@@ -136,7 +163,7 @@ public class Hero : Entity
     {
         Collider2D[] colliders = Physics2D.OverlapCircleAll(attackPos.position, attackRange, enemy);
 
-        for (int i = 0; i <colliders.Length; i++)
+        for (int i = 0; i < colliders.Length; i++)
         {
             colliders[i].GetComponent<Entity>().GetDamage();
         }
@@ -144,13 +171,13 @@ public class Hero : Entity
 
     private IEnumerator AttackAnimation()
     {
-        yield return new WaitForSeconds(0.6f);
+        yield return new WaitForSeconds(0.5f);
         isAttacking = false;
     }
 
     private IEnumerator AttackCoolDown()
     {
-        yield return new WaitForSeconds(0.5f);
+        yield return new WaitForSeconds(3f);
         isRecharged = false;
     }
 
@@ -159,7 +186,23 @@ public class Hero : Entity
         Gizmos.color = Color.red;
         Gizmos.DrawWireSphere(attackPos.position, attackRange);
     }
+    private void OnTriggerEnter2D(Collider2D collision)
+    {
+        if (collision.CompareTag("Checkpoint"))
+        {
+            lastCheckpointPosition = collision.transform.position;
+        }
+    }
+    private void OnCollisionStay2D(Collision2D collision)
+    {
+        if (collision.gameObject.tag == "Falling platform" && (Input.GetKey(KeyCode.S)
+            || Input.GetKey(KeyCode.DownArrow)))
+        {
+            collision.transform.GetComponent<FallingPlatform>().OffCollider();
+        }
+    }
 }
+
 
 public enum States
 {
@@ -170,5 +213,6 @@ public enum States
     death,
     attack1,
     attack2,
-    attack3
+    attack3,
+    heal
 }

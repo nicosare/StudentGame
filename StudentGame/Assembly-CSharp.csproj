@@ -55,29 +55,45 @@
   <ItemGroup>
     <Compile Include="Assets\Platformer lvl\scripts\MovingEnemy.cs" />
     <Compile Include="Assets\Menus\LoseMenu\LoseMenu.cs" />
+    <Compile Include="Assets\Platformer lvl\scripts\MovingThorn.cs" />
     <Compile Include="Assets\Platformer lvl\scripts\Bullet.cs" />
     <Compile Include="Assets\FightingLvl\Potions\HealPotions.cs" />
     <Compile Include="Assets\Platformer lvl\scripts\Entity.cs" />
+<<<<<<< HEAD
     <Compile Include="Assets\FightingLvl\Potions\SpawnPotions.cs" />
     <Compile Include="Assets\Menus\PauseMenu\PauseMenu.cs" />
     <Compile Include="Assets\Platformer lvl\scripts\DeadLine.cs" />
     <Compile Include="Assets\Platformer lvl\scripts\ShootingEnemy.cs" />
     <Compile Include="Assets\Menus\WinMenu\WinMenu.cs" />
+=======
+    <Compile Include="Assets\Platformer lvl\scripts\NpcController.cs" />
+    <Compile Include="Assets\Menus\PauseMenu\PauseMenu.cs" />
+    <Compile Include="Assets\Platformer lvl\scripts\DeadLine.cs" />
+    <Compile Include="Assets\Platformer lvl\scripts\ShootingEnemy.cs" />
+    <Compile Include="Assets\Platformer lvl\scripts\Checkpoint.cs" />
+    <Compile Include="Assets\Platformer lvl\scripts\FallingPlatform.cs" />
+>>>>>>> 0f6ab7047eee964eea7ed4c1c8e996206992ca28
     <Compile Include="Assets\Dialogues\DialogueManager.cs" />
     <Compile Include="Assets\FightingLvl\DamageNums\DmgNumObj.cs" />
     <Compile Include="Assets\Platformer lvl\scripts\Obstacle.cs" />
     <Compile Include="Assets\NPC\NPC.cs" />
     <Compile Include="Assets\Platformer lvl\scripts\CameraController.cs" />
     <Compile Include="Assets\Dialogues\Dialogue.cs" />
+    <Compile Include="Assets\Platformer lvl\scripts\PortalController.cs" />
     <Compile Include="Assets\FightingLvl\HealthBar\HealthBar.cs" />
     <Compile Include="Assets\Menus\MainMenu\MainMenu.cs" />
+    <Compile Include="Assets\Platformer lvl\scripts\LizardController.cs" />
     <Compile Include="Assets\FightingLvl\Player\PlayerFight.cs" />
     <Compile Include="Assets\Platformer lvl\scripts\Heal.cs" />
     <Compile Include="Assets\FightingLvl\Enemy\EnemyFight.cs" />
     <Compile Include="Assets\Dialogues\DialogueTrigger.cs" />
     <Compile Include="Assets\Platformer lvl\scripts\StationaryEnemy.cs" />
     <Compile Include="Assets\Platformer lvl\scripts\Hero.cs" />
+<<<<<<< HEAD
     <Compile Include="Assets\FightingLvl\Cutscene.cs" />
+=======
+    <Compile Include="Assets\Platformer lvl\scripts\TriggerMovingThorn.cs" />
+>>>>>>> 0f6ab7047eee964eea7ed4c1c8e996206992ca28
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\Platformer lvl\materials\Level Design\city_tileset\city_tileset\license.txt" />

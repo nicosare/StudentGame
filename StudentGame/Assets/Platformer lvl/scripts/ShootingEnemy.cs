@@ -7,7 +7,8 @@ public class ShootingEnemy : Entity
     private Transform shootPosition;
     [SerializeField] private GameObject bullet;
     private bool canShoot = true;
-    private int timeReload = 2;
+    private float timeReload = 3.5f;
+    [SerializeField] private float timeLifeBullet = 2f;
 
     private void OnCollisionEnter2D(Collision2D collision)
     {
@@ -20,7 +21,7 @@ public class ShootingEnemy : Entity
 
     private void Awake()
     {
-        shootPosition = GameObject.Find("Shoot possition").transform;
+        shootPosition = this.transform.GetChild(1).transform;
         lives = 1;
     }
     
@@ -28,6 +29,7 @@ public class ShootingEnemy : Entity
     {
         canShoot = false;
         Instantiate(bullet, shootPosition.position, transform.rotation);
+        bullet.GetComponent<Bullet>().TimeLife = timeLifeBullet;
         yield return new WaitForSeconds(timeReload);
         canShoot = true;
     }
