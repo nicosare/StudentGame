@@ -1,0 +1,732 @@
+fileFormatVersion: 2
+guid: cbc8d42a7070a384781965e1bbe9ec32
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5906941903396119573
+    second: inter5_0
+  - first:
+      213: -1640599238634057173
+    second: inter5_1
+  - first:
+      213: 8153016001403471638
+    second: inter5_2
+  - first:
+      213: 6068301023929631023
+    second: inter5_3
+  - first:
+      213: -3576733560779845429
+    second: inter5_4
+  - first:
+      213: -7754534123929042758
+    second: inter5_5
+  - first:
+      213: -2974238995841285181
+    second: inter5_6
+  - first:
+      213: 6275983734114338829
+    second: inter5_7
+  - first:
+      213: 1893385883082472145
+    second: inter5_8
+  - first:
+      213: -1963660043024337933
+    second: inter5_9
+  - first:
+      213: 3788543843145291817
+    second: inter5_10
+  - first:
+      213: -8261937140296176442
+    second: inter5_11
+  - first:
+      213: -3305504817123152510
+    second: inter5_12
+  - first:
+      213: 1381606904209005413
+    second: inter5_13
+  - first:
+      213: 6308331927422679847
+    second: inter5_14
+  - first:
+      213: -1639742292461483029
+    second: inter5_15
+  - first:
+      213: -5195543008872635742
+    second: inter5_16
+  - first:
+      213: 3817995468234290352
+    second: inter5_17
+  - first:
+      213: -6562127800091919751
+    second: inter5_18
+  - first:
+      213: -5789923198047586149
+    second: inter5_19
+  - first:
+      213: 8908509418154014318
+    second: inter5_20
+  - first:
+      213: -3256044561934509795
+    second: inter5_21
+  - first:
+      213: 2523838961134915862
+    second: inter5_22
+  - first:
+      213: 6376720564710713032
+    second: inter5_23
+  - first:
+      213: 8374211020919531838
+    second: inter5_24
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 128
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: inter5_0
+      rect:
+        serializedVersion: 2
+        x: 2574
+        y: 1462
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beb543b92a3560ea0800000000000000
+      internalID: -5906941903396119573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inter5_1
+      rect:
+        serializedVersion: 2
+        x: 2574
+        y: 1385
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b22d07a4fab6b39e0800000000000000
+      internalID: -1640599238634057173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inter5_2
+      rect:
+        serializedVersion: 2
+        x: 2574
+        y: 1308
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 617cab35bd4552170800000000000000
+      internalID: 8153016001403471638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inter5_3
+      rect:
+        serializedVersion: 2
+        x: 2574
+        y: 1231
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f21077941afe63450800000000000000
+      internalID: 6068301023929631023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inter5_4
+      rect:
+        serializedVersion: 2
+        x: 2574
+        y: 1154
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc0df7dd6c3ec5ec0800000000000000
+      internalID: -3576733560779845429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inter5_5
+      rect:
+        serializedVersion: 2
+        x: 2574
+        y: 1077
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab08090bc4c526490800000000000000
+      internalID: -7754534123929042758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inter5_6
+      rect:
+        serializedVersion: 2
+        x: 2574
+        y: 1000
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c304c7346169b6d0800000000000000
+      internalID: -2974238995841285181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inter5_7
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 524
+        width: 626
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d08c30064f5c81750800000000000000
+      internalID: 6275983734114338829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inter5_8
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 601
+        width: 345
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dabed7dd68a64a10800000000000000
+      internalID: 1893385883082472145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inter5_9
+      rect:
+        serializedVersion: 2
+        x: 1329
+        y: 601
+        width: 45
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f3f7e3489dafb4e0800000000000000
+      internalID: -1963660043024337933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inter5_10
+      rect:
+        serializedVersion: 2
+        x: 1441
+        y: 670
+        width: 366
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9281ba28d8c939430800000000000000
+      internalID: 3788543843145291817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inter5_11
+      rect:
+        serializedVersion: 2
+        x: 1840
+        y: 593
+        width: 366
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cc2a0cc1f3b75d80800000000000000
+      internalID: -8261937140296176442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inter5_12
+      rect:
+        serializedVersion: 2
+        x: 2406
+        y: 628
+        width: 136
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28d2804d1ec7022d0800000000000000
+      internalID: -3305504817123152510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inter5_13
+      rect:
+        serializedVersion: 2
+        x: 2595
+        y: 628
+        width: 137
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56bda98c8247c2310800000000000000
+      internalID: 1381606904209005413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inter5_14
+      rect:
+        serializedVersion: 2
+        x: 1441
+        y: 510
+        width: 366
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72bb84b0772bb8750800000000000000
+      internalID: 6308331927422679847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inter5_15
+      rect:
+        serializedVersion: 2
+        x: 2414
+        y: 139
+        width: 297
+        height: 380
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beb06ae92177e39e0800000000000000
+      internalID: -1639742292461483029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inter5_16
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 152
+        width: 303
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a2e1ec1929b5e7b0800000000000000
+      internalID: -5195543008872635742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inter5_17
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 314
+        width: 78
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b4f72656ae3cf430800000000000000
+      internalID: 3817995468234290352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inter5_18
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 152
+        width: 305
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97a3ec09883aee4a0800000000000000
+      internalID: -6562127800091919751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inter5_19
+      rect:
+        serializedVersion: 2
+        x: 1391
+        y: 314
+        width: 451
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b987497178f06afa0800000000000000
+      internalID: -5789923198047586149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inter5_20
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 244
+        width: 78
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e66ba43dd1261ab70800000000000000
+      internalID: 8908509418154014318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inter5_21
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 125
+        width: 135
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d191d01e8b430d2d0800000000000000
+      internalID: -3256044561934509795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inter5_22
+      rect:
+        serializedVersion: 2
+        x: 1476
+        y: 125
+        width: 135
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 611dcbcc92a760320800000000000000
+      internalID: 2523838961134915862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inter5_23
+      rect:
+        serializedVersion: 2
+        x: 1643
+        y: 125
+        width: 136
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c6a28b7199ae7850800000000000000
+      internalID: 6376720564710713032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inter5_24
+      rect:
+        serializedVersion: 2
+        x: 1811
+        y: 125
+        width: 137
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e39e1181e8c273470800000000000000
+      internalID: 8374211020919531838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

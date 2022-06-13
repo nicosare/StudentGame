@@ -11,6 +11,11 @@ TagManager:
   - ShieldRight
   - HealPotion
   - HealParent
+  - Hero
+  - Falling platform
+  - Moving thorn
+  - Checkpoint
+  - Opponent
   layers:
   - Default
   - TransparentFX
@@ -19,7 +24,7 @@ TagManager:
   - Water
   - UI
   - enemy
-  - 
+  - Blackout
   - 
   - 
   - 
@@ -47,4 +52,10 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Marks
+    uniqueID: 3229824279
+    locked: 0
+  - name: Player
+    uniqueID: 4005792255
     locked: 0
