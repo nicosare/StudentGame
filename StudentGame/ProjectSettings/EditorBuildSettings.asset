@@ -17,4 +17,13 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/FightingLvl.unity
     guid: 7c7fe15ed4132924f89a79667dc34c1f
+<<<<<<< HEAD
+=======
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/MathExam.unity
+    guid: 25150195215125943b49cbf45f6a3bf8
+>>>>>>> 514532ba4d79ad81cd32dacf51f3207e810132e7
   m_configObjects: {}
