@@ -3,26 +3,7 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags:
-  - DialogueWindow
-  - LoseMenu
-  - ShieldLeft
-  - ShieldFront
-  - ShieldRight
-  - HealPotion
-  - HealParent
-<<<<<<< HEAD
-  - NPC
-=======
->>>>>>> 514532ba4d79ad81cd32dacf51f3207e810132e7
-  - Hero
-  - Falling platform
-  - Moving thorn
-  - Checkpoint
-<<<<<<< HEAD
-=======
-  - Opponent
->>>>>>> 514532ba4d79ad81cd32dacf51f3207e810132e7
+  tags: []
   layers:
   - Default
   - TransparentFX
@@ -30,8 +11,8 @@ TagManager:
   - 
   - Water
   - UI
-  - enemy
-  - Blackout
+  - 
+  - 
   - 
   - 
   - 
@@ -59,21 +40,4 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
-    locked: 0
-<<<<<<< HEAD
-  - name: Ground
-    uniqueID: 1326272435
-    locked: 0
-  - name: Player
-    uniqueID: 276412645
-    locked: 0
-  - name: HighLauer
-    uniqueID: 2960463043
-=======
-  - name: Marks
-    uniqueID: 3229824279
-    locked: 0
-  - name: Player
-    uniqueID: 4005792255
->>>>>>> 514532ba4d79ad81cd32dacf51f3207e810132e7
     locked: 0

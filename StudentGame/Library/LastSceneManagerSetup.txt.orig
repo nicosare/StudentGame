@@ -1,0 +1,9 @@
+sceneSetups:
+<<<<<<< HEAD
+- path: Assets/Scenes/Map.unity
+=======
+- path: Assets/Scenes/RaceLevel.unity
+>>>>>>> 514532ba4d79ad81cd32dacf51f3207e810132e7
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
