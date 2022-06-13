@@ -6,6 +6,7 @@ using UnityEngine.SceneManagement;
 public class LoseMenu : MonoBehaviour
 {
     public GameObject loseGameMenu;
+   
     public void Restart()
     {
             SceneManager.LoadScene(SceneManager.GetActiveScene().name);

@@ -159,7 +159,6 @@ public class PlayerFight : MonoBehaviour
             {
                 isDie = true;
                 animator.Play("Die");
-                Debug.Log("”мер!!");
             }
         }
         if (absorption[attack] == 0)
@@ -228,7 +227,6 @@ public class PlayerFight : MonoBehaviour
 
     public void Die()
     {
-        Debug.Log("”мер х 2");
         shieldFront.SetActive(false);
         shieldRight.SetActive(false);
         shieldLeft.SetActive(false);

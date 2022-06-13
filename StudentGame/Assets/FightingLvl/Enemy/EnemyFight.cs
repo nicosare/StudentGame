@@ -24,11 +24,9 @@ public class EnemyFight : MonoBehaviour
     public Dictionary<string, bool> attacks;
     private bool isDie;
     private bool isLvlUp;
-    private bool isPlayerGone;
     
     void Start()
     {
-        isPlayerGone = false;
         cutscene.On();
         transform.position = new Vector3(-11, 1, 0);
         isDie = false;

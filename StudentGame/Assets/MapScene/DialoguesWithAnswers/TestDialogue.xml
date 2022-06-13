@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<dialogue>
+	<node>
+		<npctext>Привет, у меня есть для тебя задание</npctext>
+		<answers>
+			<answer tonode = "1">
+				<text>Какое ещё задание?</text>
+			</answer>
+			<answer tonode = "0">
+				<text>Мне это не интересно, пока</text>
+				<dialend>true</dialend>
+			</answer>
+		</answers>
+	</node>
+	<node>
+		<npctext>Не спрашивай, просто заходи в этот дом, сам всё поймёшь</npctext>
+		<answers>
+			<answer tonode = "2">
+				<text>Но зачем?</text>
+			</answer>
+			<answer tonode = "3">
+				<text>А награда будет?</text>
+			</answer>
+		</answers>
+	</node>
+	<node>
+		<npctext>Сказал же, не спрашивай</npctext>
+		<answers>
+			<answer tonode="0">
+				<text>Ладно..</text>
+				<dialend>true</dialend>
+			</answer>
+		</answers>
+	</node>
+	<node>
+		<npctext>Посмотрим, когда вернёшься</npctext>
+		<answers>
+			<answer tonode="0">
+				<text>Хорошо</text>
+				<dialend>true</dialend>
+			</answer>
+			<answer tonode="0">
+				<text>Тогда за дело</text>
+				<dialend>true</dialend>
+			</answer>
+		</answers>
+	</node>
+</dialogue>

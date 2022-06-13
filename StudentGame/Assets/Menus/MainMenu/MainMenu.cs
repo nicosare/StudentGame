@@ -7,7 +7,7 @@ public class MainMenu : MonoBehaviour
 {
     public void PlayGame()
     {
-        SceneManager.LoadScene("FightingLvl");
+        SceneManager.LoadScene("Platformer lvl");
     }
 
     public void ExitGame()

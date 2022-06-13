@@ -16,6 +16,7 @@ public class Hero : Entity
     private HealthBar healthBar;
     private int maxHealth = 100;
     private int currentHealth;
+    private Vector3 startPosition;
 
     private Rigidbody2D rb;
     private Animator anim;
@@ -50,6 +51,7 @@ public class Hero : Entity
 
     private void Awake()
     {
+        startPosition = transform.position;
         anim = GetComponent<Animator>();
         Instance = this;
         rb = GetComponent<Rigidbody2D>();
@@ -146,6 +148,7 @@ public class Hero : Entity
 
     public void EndGame()
     {
+        lastCheckpointPosition = startPosition;
         sprite.enabled = false;
     }
 

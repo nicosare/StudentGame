@@ -8,10 +8,13 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/MainMenu.unity
     guid: a88fba8e75aec7b4b94331717f19aae1
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Platformer lvl.unity
+    guid: 15f4c00bea205014fb3d4e1232d2de1b
   - enabled: 1
     path: Assets/Scenes/FightingLvl.unity
     guid: 7c7fe15ed4132924f89a79667dc34c1f
-  - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
-    guid: 2cda990e2423bbf4892e6590ba056729
   m_configObjects: {}

@@ -5,12 +5,29 @@ using UnityEngine.SceneManagement;
 
 public class PauseMenu : MonoBehaviour
 {
-    public Cutscene cutscene;
+    private Cutscene cutscene;
     public bool pauseGame;
     public GameObject pauseGameMenu;
+
+    private void Awake()
+    {
+        if (SceneManager.GetActiveScene().name == "FightingLvl")
+            cutscene = GameObject.Find("Canvas").GetComponent<Cutscene>();
+    }
+
     private void Update()
     {
-        if (Input.GetKeyDown(KeyCode.Escape) && !cutscene.IsEnabled())
+        if (SceneManager.GetActiveScene().name == "Platformer lvl")
+        {
+            if (Input.GetKeyDown(KeyCode.Escape))
+            {
+                if (pauseGame)
+                    Resume();
+                else
+                    Pause();
+            }
+        }
+        else if (!cutscene.IsEnabled() && Input.GetKeyDown(KeyCode.Escape))
         {
             if (pauseGame)
                 Resume();

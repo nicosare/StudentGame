@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<dialogue>
+	<node>
+		<npctext>Ай, за что!?</npctext>
+		<answers>
+			<answer tonode = "1">
+				<text>Заслужил</text>
+			</answer>
+			<answer tonode = "2">
+				<text>Прости пожалуйста</text>
+			</answer>
+			<answer tonode = "0">
+				<text>Не стой на моём пути!</text>
+				<dialend>true</dialend>
+			</answer>
+		</answers>
+	</node>
+	<node>
+		<npctext>Иди поговори с моим братом</npctext>
+		<answers>
+			<answer tonode = "0">
+				<text>Ладно</text>
+				<dialend>true</dialend>
+			</answer>
+			<answer tonode = "0">
+				<text>Пойду разберусь</text>
+				<dialend>true</dialend>
+			</answer>
+		</answers>
+	</node>
+	<node>
+		<npctext>Хорошо, тебя мой брат звал</npctext>
+		<answers>
+			<answer tonode = "1">
+				<text>Уже бегу</text>
+				<dialend>true</dialend>
+			</answer>
+			<answer tonode = "1">
+				<text>Зачем</text>
+			</answer>
+		</answers>
+	</node>
+</dialogue>

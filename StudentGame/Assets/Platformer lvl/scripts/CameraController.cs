@@ -11,7 +11,6 @@ public class CameraController : MonoBehaviour
     {
         if (!player)
             player = FindObjectOfType<Hero>().transform;
-
     }
 
     private void Update()
